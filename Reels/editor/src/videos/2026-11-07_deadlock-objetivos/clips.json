@@ -1,0 +1,16 @@
+{
+ "base_guard": 9.0,
+ "shrine_a": 25.0,
+ "shrine_b": 37.0,
+ "hk1": 18.0,
+ "hk2": 11.0,
+ "am1": 17.0,
+ "am2": 8.0,
+ "hk_end": 19.0,
+ "am_end": 13.0,
+ "walker": 30.0,
+ "guardian": 6.0,
+ "camps": 11.0,
+ "midboss": 22.0,
+ "urn": 10.0
+}

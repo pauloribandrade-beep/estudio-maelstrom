@@ -1,0 +1,244 @@
+{
+  "fps": 30,
+  "outro": 0.6,
+  "segments": [
+    {
+      "a": 0.4,
+      "b": 4.633,
+      "note": "gancho: jogar LoL em 2026 tá chato demais, só louco",
+      "frames": 127,
+      "editStart": 0.0
+    },
+    {
+      "a": 4.701,
+      "b": 6.401,
+      "note": "gancho: jogar LoL em 2026 tá chato demais, só louco",
+      "frames": 51,
+      "editStart": 4.233
+    },
+    {
+      "a": 6.773,
+      "b": 10.006,
+      "note": "jogo LoL há mais de 10 anos",
+      "frames": 97,
+      "editStart": 5.933
+    },
+    {
+      "a": 10.318,
+      "b": 14.018,
+      "note": "toda vez que abro uma partida fico maluco",
+      "frames": 111,
+      "editStart": 9.167
+    },
+    {
+      "a": 14.194,
+      "b": 14.861,
+      "note": "toda vez que abro uma partida fico maluco",
+      "frames": 20,
+      "editStart": 12.867
+    },
+    {
+      "a": 16,
+      "b": 17.933,
+      "note": "já não basta o meu main ser o Shaco",
+      "frames": 58,
+      "editStart": 13.533
+    },
+    {
+      "a": 19.636,
+      "b": 21.903,
+      "note": "mas o fato de eu jogar esse jogo eu fico…",
+      "frames": 68,
+      "editStart": 15.467
+    },
+    {
+      "a": 22.182,
+      "b": 24.015,
+      "note": "insano, mano",
+      "frames": 55,
+      "editStart": 17.733
+    },
+    {
+      "a": 25.1,
+      "b": 27.033,
+      "note": "simplesmente (sem o 'depois dos 10…' refeito)",
+      "frames": 58,
+      "editStart": 19.567
+    },
+    {
+      "a": 27.427,
+      "b": 30.394,
+      "note": "aos 15 minutos não tem mais o que fazer, o jogo…",
+      "frames": 89,
+      "editStart": 21.5
+    },
+    {
+      "a": 33.818,
+      "b": 39.451,
+      "note": "difícil subir de elo, difícil mecânica interessante",
+      "frames": 169,
+      "editStart": 24.467
+    },
+    {
+      "a": 40.091,
+      "b": 44.758,
+      "note": "depois de muito tempo o jogo ficou mecânico",
+      "frames": 140,
+      "editStart": 30.1
+    },
+    {
+      "a": 48.222,
+      "b": 49.455,
+      "note": "10 anos de LoL, desde 2014/2015, voltava por apego (sem o 'isso talvez possa ser que…')",
+      "frames": 37,
+      "editStart": 34.767
+    },
+    {
+      "a": 49.565,
+      "b": 56.698,
+      "note": "10 anos de LoL, desde 2014/2015, voltava por apego (sem o 'isso talvez possa ser que…')",
+      "frames": 214,
+      "editStart": 36.0
+    },
+    {
+      "a": 57.398,
+      "b": 64.331,
+      "note": "10 anos de LoL, desde 2014/2015, voltava por apego (sem o 'isso talvez possa ser que…')",
+      "frames": 208,
+      "editStart": 43.133
+    },
+    {
+      "a": 64.545,
+      "b": 65.512,
+      "note": "do vício",
+      "frames": 29,
+      "editStart": 50.067
+    },
+    {
+      "a": 66.045,
+      "b": 70.778,
+      "note": "e do buraco que esse jogo deixou",
+      "frames": 142,
+      "editStart": 51.033
+    },
+    {
+      "a": 71.364,
+      "b": 81.897,
+      "note": "procurei jogo que diverte mesmo perdendo: encontrei no Deadlock",
+      "frames": 316,
+      "editStart": 55.767
+    },
+    {
+      "a": 81.969,
+      "b": 86.969,
+      "note": "procurei jogo que diverte mesmo perdendo: encontrei no Deadlock",
+      "frames": 150,
+      "editStart": 66.3
+    },
+    {
+      "a": 89.7,
+      "b": 98.633,
+      "note": "mesmo que eu perca 5 seguidas (2ª vez, a 1ª sai) ≠ 1 no LoL; comunidade diferente",
+      "frames": 268,
+      "editStart": 71.3
+    },
+    {
+      "a": 98.722,
+      "b": 106.222,
+      "note": "mesmo que eu perca 5 seguidas (2ª vez, a 1ª sai) ≠ 1 no LoL; comunidade diferente",
+      "frames": 225,
+      "editStart": 80.233
+    },
+    {
+      "a": 106.388,
+      "b": 106.788,
+      "note": "mesmo que eu perca 5 seguidas (2ª vez, a 1ª sai) ≠ 1 no LoL; comunidade diferente",
+      "frames": 12,
+      "editStart": 87.733
+    },
+    {
+      "a": 106.868,
+      "b": 109.468,
+      "note": "mesmo que eu perca 5 seguidas (2ª vez, a 1ª sai) ≠ 1 no LoL; comunidade diferente",
+      "frames": 78,
+      "editStart": 88.133
+    },
+    {
+      "a": 128.082,
+      "b": 130.982,
+      "note": "espero que as pessoas comecem a enxergar (sem o 1º take, sem 'tanto como…' e o 'corta esse tanto')",
+      "frames": 87,
+      "editStart": 90.733
+    },
+    {
+      "a": 133.042,
+      "b": 136.375,
+      "note": "o potencial que o Deadlock tem e comecem a migrar",
+      "frames": 100,
+      "editStart": 93.633
+    },
+    {
+      "a": 136.727,
+      "b": 138.494,
+      "note": "pro Deadlock, principalmente",
+      "frames": 53,
+      "editStart": 96.967
+    },
+    {
+      "a": 139,
+      "b": 150.333,
+      "note": "Major / CBLOL de Deadlock: comenta o nome",
+      "frames": 340,
+      "editStart": 98.733
+    },
+    {
+      "a": 153.318,
+      "b": 157.318,
+      "note": "a comunidade só aumenta",
+      "frames": 120,
+      "editStart": 110.067
+    },
+    {
+      "a": 157.818,
+      "b": 161.918,
+      "note": "engajamento, jogo uma delicinha; comenta, DM, link do Discord, convite",
+      "frames": 123,
+      "editStart": 114.067
+    },
+    {
+      "a": 162.354,
+      "b": 181.321,
+      "note": "engajamento, jogo uma delicinha; comenta, DM, link do Discord, convite",
+      "frames": 569,
+      "editStart": 118.167
+    },
+    {
+      "a": 181.464,
+      "b": 185.464,
+      "note": "engajamento, jogo uma delicinha; comenta, DM, link do Discord, convite",
+      "frames": 120,
+      "editStart": 137.133
+    },
+    {
+      "a": 210.755,
+      "b": 216.455,
+      "note": "fecho refeito (ele: 'não, vamos mudar'): Blies, live todo dia, foto piscando, Half-Life, música, segue",
+      "frames": 171,
+      "editStart": 141.133
+    },
+    {
+      "a": 218.076,
+      "b": 227.309,
+      "note": "fecho refeito (ele: 'não, vamos mudar'): Blies, live todo dia, foto piscando, Half-Life, música, segue",
+      "frames": 277,
+      "editStart": 146.833
+    },
+    {
+      "a": 227.505,
+      "b": 231.072,
+      "note": "fecho refeito (ele: 'não, vamos mudar'): Blies, live todo dia, foto piscando, Half-Life, música, segue",
+      "frames": 107,
+      "editStart": 156.067
+    }
+  ]
+}

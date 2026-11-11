@@ -1,0 +1,19 @@
+#  tag  início    fim   texto   (segundos da gravação original)
+0   XX    0.00    6.82  Vou pensar, doutora. E você responde, fica à vontade.
+1   mk    8.80    9.76  Corta.
+2   OK   11.94   17.64  Vou pensar, doutora. E você responde, fica à vontade.
+3   OK   18.72   21.44  Pronto. Ela não volta.
+4   mk   23.84   24.28  Salva.
+5   OK   25.58   29.16  Vou pensar muitas vezes, não é um não.
+6   OK   30.00   32.26  É uma dúvida que ela não falou.
+7   mk   34.34   35.14  Salva.
+8   OK   37.40   40.58  Se a dúvida é o valor, não baixa o preço.
+9   OK   41.60   46.56  Pergunta, o que te deixou em dúvida, o investimento ou o plano.
+10  mk   48.64   49.44  Salva.
+11  OK   51.16   52.96  Isso não é pressão.
+12  OK   53.44   54.74  É condução.
+13  OK   55.58   59.12  Comenta pensar que eu te mando as três frases.
+14  mk   60.66   62.06  Salva.
+
+15 segmentos | OK 9  XX 1  marcadores 5  tentativas 0  sem marca 0
+legenda: OK=aprovado por SALVA  XX=descartado por CORTA  mk=marcador  re=tentativa abortada  ..=sem marcador

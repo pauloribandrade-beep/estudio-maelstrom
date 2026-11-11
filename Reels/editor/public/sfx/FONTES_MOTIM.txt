@@ -1,0 +1,5 @@
+mk_vibra.wav  Freesound 52287 (trip2000), CC0 · celular vibrando
+mk_polish.wav Freesound 860122 (bassimat), CC0 · politriz orbital
+mk_heli.wav   Freesound 241190 (mil0001), CC0 · helicóptero passando (12,5–17,9 s)
+mk_stamp.wav  Freesound 470710 (I.fekry), CC0 · carimbo
+mk_neon.wav   Freesound 500693 (bolkmar), CC0 · neon acendendo (0–1,3 s)

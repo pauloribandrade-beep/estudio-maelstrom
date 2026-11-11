@@ -1,0 +1,3621 @@
+{
+ "version": 1,
+ "slug": "2026-11-10_deadlock-lash-atrevido",
+ "comp": "LaEdit",
+ "format": "wide",
+ "orient": "vertical",
+ "fps": 30,
+ "video": {
+  "src": "videos/2026-11-10_deadlock-lash-atrevido/ig1080.mp4"
+ },
+ "zoom": {
+  "snaps": [
+   {
+    "t": 0.0,
+    "z": 1
+   }
+  ],
+  "pushes": []
+ },
+ "sounds": [
+  {
+   "id": "m_amongus",
+   "src": "videos/2026-11-08_deadlock-nao-desista_R/sons/amongus_completo.wav",
+   "start": 0.0,
+   "vol": 0.2,
+   "dur": 4.55,
+   "fadeOut": 0.6,
+   "track": "t1",
+   "label": "meme · abertura Among Us (role reveal, completo)"
+  },
+  {
+   "id": "x_logo_do_deadlock_bate~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_game_start.wav",
+   "start": 3.022,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "logo do DEADLOCK bate",
+   "trim": 0.643
+  },
+  {
+   "id": "x_almas_entram_no_contador~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/xp_orb_vaccum_collect_01.wav",
+   "start": 5.62,
+   "vol": 0.03,
+   "dur": 0.9,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "almas entram no contador"
+  },
+  {
+   "id": "x_mas_o_jogo_congela~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/stun.wav",
+   "start": 7.328,
+   "vol": 0.034,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "MAS: o jogo congela",
+   "trim": 0.124
+  },
+  {
+   "id": "x_o_lash_despenca_e_bate_no_cho~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_death_slam_impact_01.wav",
+   "start": 9.763,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "o Lash despenca e bate no chão"
+  },
+  {
+   "id": "x_muito~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/headshot.wav",
+   "start": 11.383,
+   "vol": 0.03,
+   "dur": 0.7,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "MUITO."
+  },
+  {
+   "id": "x_1_abate_no_feed~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_chat_msg_received_03.wav",
+   "start": 13.481,
+   "vol": 0.059,
+   "dur": 0.5,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "1º abate no feed"
+  },
+  {
+   "id": "x_3_abate_no_feed~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_chat_msg_received_01.wav",
+   "start": 15.368,
+   "vol": 0.056,
+   "dur": 0.5,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "3º abate no feed"
+  },
+  {
+   "id": "x_de_matar~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/headshot_booster_hit_01.wav",
+   "start": 16.825,
+   "vol": 0.03,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "DE MATAR?"
+  },
+  {
+   "id": "x_carimbo_no_cs~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/baba_ult_max_lock_01.wav",
+   "start": 18.49,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "carimbo NÃO É · CS"
+  },
+  {
+   "id": "x_carimbo_no_marvel_rivals~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/baba_ult_max_lock_02.wav",
+   "start": 19.958,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "carimbo NÃO É · Marvel Rivals"
+  },
+  {
+   "id": "x_carimbo_no_overwatch~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/baba_ult_max_lock_03.wav",
+   "start": 21.754,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "carimbo NÃO É · Overwatch"
+  },
+  {
+   "id": "x_o_jogo_acelera_relgio_voando~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/speed_boost.wav",
+   "start": 25.031,
+   "vol": 0.03,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "o jogo acelera (relógio voando)"
+  },
+  {
+   "id": "x_lane_phase~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_game_matchmake_made.wav",
+   "start": 27.452,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "LANE PHASE"
+  },
+  {
+   "id": "x_corte_farma~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/xp_orbs_acquire_01.wav",
+   "start": 29.785,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "corte · FARMA"
+  },
+  {
+   "id": "x_corte_nega_farm~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/xp_orbs_deny_01.wav",
+   "start": 30.431,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "corte · NEGA FARM"
+  },
+  {
+   "id": "x_corte_farma_jungle~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_map.wav",
+   "start": 32.254,
+   "vol": 0.05,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "corte · FARMA JUNGLE"
+  },
+  {
+   "id": "x_corte_caixinhas~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_get_gold_01.wav",
+   "start": 33.194,
+   "vol": 0.049,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "corte · CAIXINHAS"
+  },
+  {
+   "id": "x_clique_em_recarga~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/shop_close.wav",
+   "start": 35.121,
+   "vol": 0.151,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "clique: EM RECARGA",
+   "trim": 0.062
+  },
+  {
+   "id": "x_porrada_liberada~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/tech_activate.wav",
+   "start": 37.343,
+   "vol": 0.218,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "PORRADA LIBERADA"
+  },
+  {
+   "id": "x_trava_o_lash~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/hero_select.wav",
+   "start": 39.616,
+   "vol": 0.146,
+   "dur": 1.4,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "trava o Lash"
+  },
+  {
+   "id": "x_dash~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_a2_grapple_cast.wav",
+   "start": 43.846,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "DASH"
+  },
+  {
+   "id": "x_soco~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_ground_strike_impact.wav",
+   "start": 44.647,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "SOCO"
+  },
+  {
+   "id": "x_infinito~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_a3_flog_impact_01.wav",
+   "start": 45.313,
+   "vol": 0.03,
+   "dur": 0.7,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "INFINITO"
+  },
+  {
+   "id": "x_morreu_tela_cinza~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/music_stinger_player_death.wav",
+   "start": 47.659,
+   "vol": 0.03,
+   "dur": 2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "MORREU (tela cinza)"
+  },
+  {
+   "id": "m_meme_shifu_paz_interior_dublad",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/memes/shifu.wav",
+   "start": 49.146,
+   "trim": 0,
+   "vol": 0.22,
+   "dur": 2.5,
+   "fadeOut": 0.15,
+   "track": "t1",
+   "label": "meme Shifu: paz interior (dublado)"
+  },
+  {
+   "id": "x_lane_phase~1",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_confirm_roster.wav",
+   "start": 52.274,
+   "vol": 0.03,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "LANE PHASE ✓"
+  },
+  {
+   "id": "x_almas_bate_no_mapa~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/stun.wav",
+   "start": 55.167,
+   "vol": 0.034,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "− ALMAS bate no mapa",
+   "trim": 0.124
+  },
+  {
+   "id": "x_rotao_a_rota_corre~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/speed_boost.wav",
+   "start": 60.025,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "rotação: a rota corre"
+  },
+  {
+   "id": "x_acampamentos_da_jungle~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_map.wav",
+   "start": 64.95,
+   "vol": 0.05,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "acampamentos da jungle"
+  },
+  {
+   "id": "x_trs_inimigos_chegam~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_rally.wav",
+   "start": 67.764,
+   "vol": 0.077,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "três inimigos chegam",
+   "trim": 0.048
+  },
+  {
+   "id": "x_a_todo_custo_riscado~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/headshot_booster_hit_02.wav",
+   "start": 72.719,
+   "vol": 0.03,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "A TODO CUSTO (riscado)",
+   "trim": 0.067
+  },
+  {
+   "id": "x_abates_apaga~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_herocard_hover.wav",
+   "start": 74.409,
+   "vol": 0.36,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "ABATES apaga"
+  },
+  {
+   "id": "x_mortes_0_acende~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/popup_level_up.wav",
+   "start": 79.751,
+   "vol": 0.248,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "MORTES 0 acende"
+  },
+  {
+   "id": "x_lanes_de_lado_acendem~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_map.wav",
+   "start": 82.359,
+   "vol": 0.05,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "lanes de lado acendem"
+  },
+  {
+   "id": "x_almas_no_mapa~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/xp_orbs_acquire_01.wav",
+   "start": 84.417,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "almas no mapa"
+  },
+  {
+   "id": "x_top_2_top_3~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_achievement_toast_seasonal.wav",
+   "start": 87.009,
+   "vol": 0.035,
+   "dur": 1.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "TOP 2, TOP 3",
+   "trim": 0.204
+  },
+  {
+   "id": "x_0_mortes~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_commend_receive_01.wav",
+   "start": 90.556,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "0 MORTES",
+   "trim": 0.161
+  },
+  {
+   "id": "x_late_game_acende~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_get_gold_01.wav",
+   "start": 95.103,
+   "vol": 0.044,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "LATE GAME acende"
+  },
+  {
+   "id": "x_momento_decisivo~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_rally.wav",
+   "start": 96.011,
+   "vol": 0.077,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "MOMENTO DECISIVO",
+   "trim": 0.048
+  },
+  {
+   "id": "x_rat_king~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_herocard_hover.wav",
+   "start": 99.324,
+   "vol": 0.36,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "RAT KING"
+  },
+  {
+   "id": "x_almas_sobem_at_90_000~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_get_gold_large_01.wav",
+   "start": 105.685,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "almas sobem até 90.000",
+   "trim": 0.065
+  },
+  {
+   "id": "x_corrige_pra_83_mil~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/shop_close.wav",
+   "start": 107.031,
+   "vol": 0.136,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "corrige pra 83 mil",
+   "trim": 0.062
+  },
+  {
+   "id": "x_2_maior_alma~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_commend_receive_02.wav",
+   "start": 108.667,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "2ª MAIOR ALMA",
+   "trim": 0.114
+  },
+  {
+   "id": "x_1_morte~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/stun.wav",
+   "start": 110.653,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "1 MORTE",
+   "trim": 0.124
+  },
+  {
+   "id": "x_itens_da_build_imortal~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/shop_open.wav",
+   "start": 112.138,
+   "vol": 0.128,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "itens da build imortal",
+   "trim": 0.027
+  },
+  {
+   "id": "x_posicionamento~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_game_start.wav",
+   "start": 116.008,
+   "vol": 0.03,
+   "dur": 1.4,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "POSICIONAMENTO",
+   "trim": 0.643
+  },
+  {
+   "id": "x_carimbo_atrevido~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/baba_ult_max_lock_01.wav",
+   "start": 119.163,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "carimbo ATREVIDO"
+  },
+  {
+   "id": "x_escudo_de_imortal_acende~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/tech_activate.wav",
+   "start": 123.17,
+   "vol": 0.178,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "escudo de imortal acende"
+  },
+  {
+   "id": "x_escudo_quebra_morri~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/rejuv_shatter.wav",
+   "start": 125.173,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "escudo quebra: MORRI"
+  },
+  {
+   "id": "x_sem_essa_0~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_hud_acquire_ap_01.wav",
+   "start": 129.309,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "sem essa: 0"
+  },
+  {
+   "id": "x_senta_na_cadeira~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_confirm_roster.wav",
+   "start": 131.069,
+   "vol": 0.03,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "SENTA NA CADEIRA"
+  },
+  {
+   "id": "x_recompensa_cai_no_late~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_get_gold_large_01.wav",
+   "start": 137.475,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "recompensa cai no LATE",
+   "trim": 0.065
+  },
+  {
+   "id": "x_e_no_mid~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_get_gold_01.wav",
+   "start": 138.712,
+   "vol": 0.044,
+   "dur": 0.6,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "e no MID"
+  },
+  {
+   "id": "x_pica_lash~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_ground_strike_downstrike_whoosh.wav",
+   "start": 140.695,
+   "vol": 0.03,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "PICA-LASH"
+  },
+  {
+   "id": "x_a_ult_comea_a_brilhar~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_death_slam_lockon_01.wav",
+   "start": 142.85,
+   "vol": 0.03,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "a ult começa a brilhar"
+  },
+  {
+   "id": "x_ult_destrava_death_slam~0",
+   "src": "videos/2026-11-10_deadlock-lash-atrevido_R/snd/Lash_death_slam_impact_01.wav",
+   "start": 144.062,
+   "vol": 0.03,
+   "dur": 1.2,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "ULT destrava (Death Slam)"
+  },
+  {
+   "id": "x_blies~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_herocard_hover.wav",
+   "start": 146.846,
+   "vol": 0.36,
+   "dur": 0.9,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "BLIES"
+  },
+  {
+   "id": "x_anel_de_live_acende~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ping_rally.wav",
+   "start": 147.499,
+   "vol": 0.077,
+   "dur": 0.8,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "anel de LIVE acende",
+   "trim": 0.048
+  },
+  {
+   "id": "x_temas_msica_half_life_jogos~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_chat_msg_received_01.wav",
+   "start": 151.836,
+   "vol": 0.056,
+   "dur": 0.5,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "temas: música, Half-Life, jogos"
+  },
+  {
+   "id": "x_clique_seguir~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/ui_friends_party_member_new.wav",
+   "start": 157.38,
+   "vol": 0.062,
+   "dur": 1,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "clique Seguir"
+  },
+  {
+   "id": "x_tamo_junto_vitria~0",
+   "src": "videos/2026-11-09_deadlock-cansei-lol_R/snd/dl/music_stinger_game_over_win.wav",
+   "start": 160.433,
+   "vol": 0.03,
+   "dur": 2.5,
+   "fadeOut": 0.12,
+   "track": "t1",
+   "label": "TAMO JUNTO (vitória)",
+   "trim": 2.025
+  },
+  {
+   "id": "mus0",
+   "src": "videos/2026-11-06_deadlock-ranked_R/sons/shop.wav",
+   "start": 0.0,
+   "trim": 0,
+   "vol": 0.08,
+   "dur": 165.4,
+   "fadeIn": 0,
+   "fadeOut": 0.6,
+   "track": "tm",
+   "label": "música · Curiosity Shop (Deadlock)"
+  }
+ ],
+ "markers": [],
+ "voice": {},
+ "duration": 164.167,
+ "scenes": [
+  {
+   "id": "n_jogo_feliz_deadlock_almas_mas_congela_o_lash",
+   "type": "LAOpen",
+   "start": 0.0,
+   "end": 12.101,
+   "lane": 1,
+   "label": "jogo feliz · DEADLOCK · almas · MAS congela, o Lash despenca · MUITO.",
+   "props": {
+    "muito0At": 1.783,
+    "felizAt": 2.413,
+    "dlAt": 3.143,
+    "satAt": 4.953,
+    "gostAt": 6.503,
+    "masAt": 7.453,
+    "coisasAt": 9.503,
+    "stressAt": 10.083,
+    "muitoAt": 10.543,
+    "muito2At": 11.453
+   }
+  },
+  {
+   "id": "n_lash_em_tela_cheia_abates_so_um_jogo_de_mata",
+   "type": "LAKill2",
+   "start": 12.101,
+   "end": 17.515,
+   "lane": 1,
+   "label": "Lash em tela cheia · abates · SÓ UM JOGO DE MATAR?",
+   "props": {
+    "galeraAt": 1.43,
+    "entraAt": 1.92,
+    "achaAt": 3.29,
+    "soAt": 4.07,
+    "matarAt": 4.78
+   }
+  },
+  {
+   "id": "n_nao_e_cs_rivals_overwatch_um_card_por_vez_ch",
+   "type": "LANot2",
+   "start": 17.515,
+   "end": 22.788,
+   "lane": 1,
+   "label": "não é CS · Rivals · Overwatch (um card por vez, chutado)",
+   "props": {
+    "csAt": 0.94,
+    "mrAt": 2.38,
+    "owAt": 4.2
+   }
+  },
+  {
+   "id": "n_outro_conceito_jogo_acelera_relogio_voa_ate_",
+   "type": "LALane2",
+   "start": 22.788,
+   "end": 28.35,
+   "lane": 1,
+   "label": "outro conceito · jogo acelera, relógio voa até 6:00 · LANE PHASE",
+   "props": {
+    "outroAt": 0.65,
+    "esperaAt": 2.36,
+    "minAt": 4.01,
+    "laneAt": 4.71
+   }
+  },
+  {
+   "id": "n_quietinho_joga_cortes_farma_nega_jungle_caix",
+   "type": "LAMontage",
+   "start": 28.35,
+   "end": 33.827,
+   "lane": 1,
+   "label": "quietinho, joga · cortes: farma · nega · jungle · caixinhas",
+   "props": {
+    "farmaAt": 1.45,
+    "negaAt": 2.09,
+    "jungleAt": 3.93,
+    "caixaAt": 4.85
+   }
+  },
+  {
+   "id": "n_porrada_em_recarga_espera_porrada_liberada",
+   "type": "LAWait",
+   "start": 33.827,
+   "end": 37.918,
+   "lane": 1,
+   "label": "porrada em recarga · espera · PORRADA LIBERADA",
+   "props": {
+    "clickAt": 1.41,
+    "esperaAt": 1.9,
+    "readyAt": 3.61
+   }
+  },
+  {
+   "id": "n_selecao_trava_o_lash_boneco_mais_sociopata_b",
+   "type": "LAPick",
+   "start": 37.918,
+   "end": 43.007,
+   "lane": 1,
+   "label": "seleção: trava o Lash · boneco mais sociopata (Bateman)",
+   "props": {
+    "lashAt": 1.74,
+    "bonecoAt": 2.65,
+    "memeAt": 3.36
+   }
+  },
+  {
+   "id": "n_lash_de_verdade_dash_soco_morre_clipe_real",
+   "type": "LASpam2",
+   "start": 43.007,
+   "end": 49.096,
+   "lane": 1,
+   "label": "Lash de verdade: dash, soco, morre (clipe real)",
+   "props": {
+    "dashAt": 0.92,
+    "socoAt": 1.67,
+    "infAt": 2.32,
+    "deathAt": 4.76,
+    "torreAt": 5.3
+   }
+  },
+  {
+   "id": "n_shifu_paz_interior_melhor_passar_a_lane_phas",
+   "type": "LACalma",
+   "start": 49.096,
+   "end": 54.15,
+   "lane": 1,
+   "label": "Shifu: paz interior · melhor passar a LANE PHASE",
+   "props": {
+    "memeAt": 0.05,
+    "memeEndAt": 2.55,
+    "melhorAt": 2.21,
+    "laneAt": 3.25,
+    "dlAt": 4.27
+   }
+  },
+  {
+   "id": "n_mapa_desvantagem_em_alma_rotacao_jungle",
+   "type": "DLMapa",
+   "start": 54.15,
+   "end": 66.65,
+   "lane": 1,
+   "label": "mapa · desvantagem em alma · rotação · jungle",
+   "props": {
+    "you": [
+     251,
+     480
+    ],
+    "cam": [
+     {
+      "at": 0.0,
+      "x": 251,
+      "y": 300,
+      "z": 0.95
+     },
+     {
+      "at": 5.69,
+      "x": 220,
+      "y": 390,
+      "z": 1.35,
+      "dur": 0.8
+     },
+     {
+      "at": 10.52,
+      "x": 190,
+      "y": 360,
+      "z": 1.6,
+      "dur": 0.8
+     }
+    ],
+    "marks": [
+     {
+      "kind": "title",
+      "at": 0.05,
+      "text": "TRANQUILO",
+      "sub": "MESMO ATRÁS",
+      "endAt": 1.14
+     },
+     {
+      "kind": "stamp",
+      "at": 1.14,
+      "text": "− ALMAS",
+      "y": 1080,
+      "c": "#e24a3b",
+      "endAt": 5.99
+     },
+     {
+      "kind": "route",
+      "at": 5.99,
+      "ids": [
+       [
+        251,
+        480
+       ],
+       [
+        170,
+        440
+       ],
+       [
+        90,
+        380
+       ],
+       [
+        70,
+        300
+       ]
+      ],
+      "dur": 1.2
+     },
+     {
+      "kind": "you",
+      "at": 5.99,
+      "to": [
+       70,
+       300
+      ],
+      "dur": 1.2
+     },
+     {
+      "kind": "lane",
+      "at": 8.79,
+      "lanes": [
+       "L",
+       "M"
+      ],
+      "endAt": 10.82
+     },
+     {
+      "kind": "camps",
+      "at": 10.82
+     },
+     {
+      "kind": "route",
+      "at": 11.39,
+      "ids": [
+       [
+        70,
+        300
+       ],
+       [
+        120,
+        330
+       ],
+       [
+        170,
+        360
+       ],
+       [
+        215,
+        330
+       ]
+      ],
+      "dur": 1.0
+     },
+     {
+      "kind": "you",
+      "at": 11.39,
+      "to": [
+       215,
+       330
+      ],
+      "dur": 1.0
+     }
+    ]
+   }
+  },
+  {
+   "id": "n_paciencia_1_contra_3_lutar_a_todo_custo_risc",
+   "type": "LAFight",
+   "start": 66.65,
+   "end": 73.65,
+   "lane": 1,
+   "label": "paciência · 1 contra 3 · lutar a todo custo (riscado)",
+   "props": {
+    "pacAt": 0.63,
+    "foesAt": 1.23,
+    "intAt": 4.13,
+    "lutAt": 5.55,
+    "custoAt": 6.06
+   }
+  },
+  {
+   "id": "n_placar_kill_apagado_rank_sobe_mortes_0",
+   "type": "LAScore",
+   "start": 73.65,
+   "end": 81.696,
+   "lane": 1,
+   "label": "placar: kill apagado · rank sobe · MORTES 0",
+   "props": {
+    "killAt": 0.1,
+    "impAt": 0.84,
+    "rankAt": 4.61,
+    "evitAt": 6.19
+   }
+  },
+  {
+   "id": "n_mapa_puxa_side_farma_o_maximo",
+   "type": "DLMapa",
+   "start": 81.696,
+   "end": 86.216,
+   "lane": 1,
+   "label": "mapa · puxa side · farma o máximo",
+   "props": {
+    "you": [
+     70,
+     300
+    ],
+    "cam": [
+     {
+      "at": 0.0,
+      "x": 251,
+      "y": 300,
+      "z": 1
+     }
+    ],
+    "marks": [
+     {
+      "kind": "title",
+      "at": 0.05,
+      "text": "PUXA SIDE",
+      "sub": "FARMA O MÁXIMO",
+      "endAt": 4.52
+     },
+     {
+      "kind": "lane",
+      "at": 0.69,
+      "lanes": [
+       "L",
+       "R"
+      ]
+     },
+     {
+      "kind": "souls",
+      "at": 2.74
+     }
+    ]
+   }
+  },
+  {
+   "id": "n_almas_top_2_nao_morro_vantagem_pro_late_deci",
+   "type": "LASouls",
+   "start": 86.216,
+   "end": 98.099,
+   "lane": 1,
+   "label": "almas: top 2 · não morro · vantagem pro late · decisivo",
+   "props": {
+    "topAt": 0.91,
+    "morroAt": 4.46,
+    "vantAt": 7.7,
+    "lateAt": 8.9,
+    "decAt": 9.91
+   }
+  },
+  {
+   "id": "n_rat_king_90_mil_83_2_maior_alma_1_morte",
+   "type": "LARat",
+   "start": 98.099,
+   "end": 111.614,
+   "lane": 1,
+   "label": "Rat King · 90 mil… 83 · 2ª maior alma · 1 morte",
+   "props": {
+    "ratAt": 1.31,
+    "almasAt": 6.22,
+    "milAt": 7.71,
+    "oitentaAt": 9.05,
+    "segAt": 10.69,
+    "morriAt": 12.67
+   }
+  },
+  {
+   "id": "n_build_imortal_posicionamento",
+   "type": "LABuild",
+   "start": 111.614,
+   "end": 117.295,
+   "lane": 1,
+   "label": "build imortal · POSICIONAMENTO",
+   "props": {
+    "buildAt": 0.78,
+    "imortalAt": 1.03,
+    "posAt": 4.51
+   }
+  },
+  {
+   "id": "n_a_unica_vez_atrevido_imortal_morri_sem_isso_",
+   "type": "LADeath",
+   "start": 117.295,
+   "end": 130.564,
+   "lane": 1,
+   "label": "a única vez: ATREVIDO · imortal · morri · sem isso 0",
+   "props": {
+    "duvAt": 1.9,
+    "imortalAt": 5.97,
+    "morriAt": 7.9,
+    "morteAt": 9.21,
+    "zeroAt": 12.05
+   }
+  },
+  {
+   "id": "n_senta_e_joga_tranquilinho_recompensa_late_mi",
+   "type": "LAChair",
+   "start": 130.564,
+   "end": 140.036,
+   "lane": 1,
+   "label": "senta e joga tranquilinho · recompensa late/mid",
+   "props": {
+    "sentaAt": 0.58,
+    "tranqAt": 3.23,
+    "recAt": 5.4,
+    "lateAt": 7.03,
+    "midAt": 8.16
+   }
+  },
+  {
+   "id": "n_pica_lash_fica_de_boa_a_ult_destrava",
+   "type": "LAUlt",
+   "start": 140.036,
+   "end": 144.856,
+   "lane": 1,
+   "label": "pica-Lash, fica de boa · a ult destrava",
+   "props": {
+    "lashAt": 0.74,
+    "boaAt": 2.01,
+    "brilharAt": 2.89,
+    "ultAt": 4.03
+   }
+  },
+  {
+   "id": "n_fim_perfil_do_blies_com_anel_de_live_temas_s",
+   "type": "CLProfile",
+   "start": 144.856,
+   "end": 164.166,
+   "lane": 1,
+   "label": "fim · perfil do Blies com anel de live · temas · seguir",
+   "props": {
+    "nameAt": 2.07,
+    "liveAt": 2.76,
+    "blinkAt": 4.16,
+    "hlAt": 7.95,
+    "gamesAt": 9.02,
+    "musicAt": 7.0,
+    "followAt": 12.24,
+    "byeAt": 15.7
+   }
+  }
+ ],
+ "soundTracks": [
+  {
+   "id": "tm",
+   "name": "Música"
+  },
+  {
+   "id": "t1",
+   "name": "Efeitos"
+  }
+ ],
+ "captions": {
+  "style": "laestro",
+  "y": 1370,
+  "cardY": 1370,
+  "padL": 90,
+  "padR": 170,
+  "size": 72,
+  "groupSize": 3,
+  "hot": [
+   "Deadlock",
+   "CS",
+   "Overwatch",
+   "lane",
+   "phase.",
+   "porrada,",
+   "Lash,",
+   "sociopata",
+   "torre",
+   "paciência.",
+   "Kill",
+   "rank",
+   "morrer.",
+   "almas,",
+   "Rat",
+   "King",
+   "83,",
+   "imortal",
+   "posicionar",
+   "late",
+   "ult,",
+   "Blies",
+   "live"
+  ],
+  "notes": [],
+  "cardSpans": [],
+  "words": [
+   {
+    "word": "Eu",
+    "start": 0.0,
+    "end": 0.123
+   },
+   {
+    "word": "vivo",
+    "start": 0.124,
+    "end": 0.25
+   },
+   {
+    "word": "dizendo",
+    "start": 0.251,
+    "end": 0.578
+   },
+   {
+    "word": "pra",
+    "start": 0.578,
+    "end": 0.778
+   },
+   {
+    "word": "vocês",
+    "start": 0.778,
+    "end": 1.087
+   },
+   {
+    "word": "aqui",
+    "start": 1.088,
+    "end": 1.359
+   },
+   {
+    "word": "que",
+    "start": 1.36,
+    "end": 1.541
+   },
+   {
+    "word": "eu",
+    "start": 1.542,
+    "end": 1.668
+   },
+   {
+    "word": "tô",
+    "start": 1.669,
+    "end": 1.778
+   },
+   {
+    "word": "muito",
+    "start": 1.778,
+    "end": 2.414
+   },
+   {
+    "word": "feliz",
+    "start": 2.415,
+    "end": 2.741
+   },
+   {
+    "word": "jogando",
+    "start": 2.742,
+    "end": 3.141
+   },
+   {
+    "word": "Deadlock,",
+    "start": 3.142,
+    "end": 3.614
+   },
+   {
+    "word": "que",
+    "start": 3.797,
+    "end": 4.047
+   },
+   {
+    "word": "eu",
+    "start": 4.048,
+    "end": 4.138
+   },
+   {
+    "word": "tô",
+    "start": 4.139,
+    "end": 4.174
+   },
+   {
+    "word": "ficando",
+    "start": 4.175,
+    "end": 4.501
+   },
+   {
+    "word": "muito",
+    "start": 4.502,
+    "end": 4.956
+   },
+   {
+    "word": "satisfeito",
+    "start": 4.957,
+    "end": 5.938
+   },
+   {
+    "word": "porque",
+    "start": 5.939,
+    "end": 6.12
+   },
+   {
+    "word": "o",
+    "start": 6.121,
+    "end": 6.229
+   },
+   {
+    "word": "jogo",
+    "start": 6.23,
+    "end": 6.392
+   },
+   {
+    "word": "é",
+    "start": 6.393,
+    "end": 6.501
+   },
+   {
+    "word": "gostosinho",
+    "start": 6.502,
+    "end": 7.011
+   },
+   {
+    "word": "de",
+    "start": 7.011,
+    "end": 7.101
+   },
+   {
+    "word": "jogar,",
+    "start": 7.102,
+    "end": 7.32
+   },
+   {
+    "word": "mas",
+    "start": 7.448,
+    "end": 7.901
+   },
+   {
+    "word": "a",
+    "start": 7.902,
+    "end": 8.011
+   },
+   {
+    "word": "verdade",
+    "start": 8.011,
+    "end": 8.283
+   },
+   {
+    "word": "é",
+    "start": 8.284,
+    "end": 8.429
+   },
+   {
+    "word": "que",
+    "start": 8.43,
+    "end": 8.501
+   },
+   {
+    "word": "de",
+    "start": 8.502,
+    "end": 8.683
+   },
+   {
+    "word": "vez",
+    "start": 8.684,
+    "end": 8.829
+   },
+   {
+    "word": "em",
+    "start": 8.83,
+    "end": 8.956
+   },
+   {
+    "word": "quando",
+    "start": 8.957,
+    "end": 9.211
+   },
+   {
+    "word": "tem",
+    "start": 9.211,
+    "end": 9.374
+   },
+   {
+    "word": "umas",
+    "start": 9.375,
+    "end": 9.501
+   },
+   {
+    "word": "coisas",
+    "start": 9.502,
+    "end": 9.774
+   },
+   {
+    "word": "que",
+    "start": 9.775,
+    "end": 9.992
+   },
+   {
+    "word": "me",
+    "start": 9.993,
+    "end": 10.083
+   },
+   {
+    "word": "estressam",
+    "start": 10.084,
+    "end": 10.538
+   },
+   {
+    "word": "muito,",
+    "start": 10.539,
+    "end": 11.047
+   },
+   {
+    "word": "cara,",
+    "start": 11.23,
+    "end": 11.411
+   },
+   {
+    "word": "muito.",
+    "start": 11.448,
+    "end": 11.859
+   },
+   {
+    "word": "É",
+    "start": 12.151,
+    "end": 12.532
+   },
+   {
+    "word": "principalmente",
+    "start": 12.533,
+    "end": 13.186
+   },
+   {
+    "word": "a",
+    "start": 13.187,
+    "end": 13.532
+   },
+   {
+    "word": "galera",
+    "start": 13.533,
+    "end": 13.823
+   },
+   {
+    "word": "que",
+    "start": 13.823,
+    "end": 14.023
+   },
+   {
+    "word": "entra",
+    "start": 14.023,
+    "end": 14.35
+   },
+   {
+    "word": "no",
+    "start": 14.351,
+    "end": 14.532
+   },
+   {
+    "word": "jogo",
+    "start": 14.533,
+    "end": 14.841
+   },
+   {
+    "word": "e",
+    "start": 14.842,
+    "end": 15.386
+   },
+   {
+    "word": "acha",
+    "start": 15.387,
+    "end": 15.823
+   },
+   {
+    "word": "que",
+    "start": 15.823,
+    "end": 16.004
+   },
+   {
+    "word": "é",
+    "start": 16.005,
+    "end": 16.168
+   },
+   {
+    "word": "só",
+    "start": 16.169,
+    "end": 16.423
+   },
+   {
+    "word": "um",
+    "start": 16.423,
+    "end": 16.513
+   },
+   {
+    "word": "jogo",
+    "start": 16.514,
+    "end": 16.713
+   },
+   {
+    "word": "de",
+    "start": 16.714,
+    "end": 16.877
+   },
+   {
+    "word": "matar.",
+    "start": 16.878,
+    "end": 17.059
+   },
+   {
+    "word": "Mano,",
+    "start": 17.565,
+    "end": 17.874
+   },
+   {
+    "word": "isso",
+    "start": 17.874,
+    "end": 17.946
+   },
+   {
+    "word": "aqui",
+    "start": 17.947,
+    "end": 18.092
+   },
+   {
+    "word": "não",
+    "start": 18.093,
+    "end": 18.292
+   },
+   {
+    "word": "é",
+    "start": 18.293,
+    "end": 18.455
+   },
+   {
+    "word": "CS.",
+    "start": 18.456,
+    "end": 18.674
+   },
+   {
+    "word": "Isso",
+    "start": 19.466,
+    "end": 19.583
+   },
+   {
+    "word": "aqui",
+    "start": 19.584,
+    "end": 19.728
+   },
+   {
+    "word": "não",
+    "start": 19.729,
+    "end": 19.838
+   },
+   {
+    "word": "é",
+    "start": 19.838,
+    "end": 19.892
+   },
+   {
+    "word": "Marvel",
+    "start": 19.893,
+    "end": 20.165
+   },
+   {
+    "word": "Rivals,",
+    "start": 20.166,
+    "end": 20.819
+   },
+   {
+    "word": "isso",
+    "start": 20.893,
+    "end": 21.019
+   },
+   {
+    "word": "aqui",
+    "start": 21.02,
+    "end": 21.219
+   },
+   {
+    "word": "não",
+    "start": 21.22,
+    "end": 21.456
+   },
+   {
+    "word": "é",
+    "start": 21.457,
+    "end": 21.71
+   },
+   {
+    "word": "Overwatch,",
+    "start": 21.711,
+    "end": 22.365
+   },
+   {
+    "word": "é",
+    "start": 22.838,
+    "end": 23.256
+   },
+   {
+    "word": "um",
+    "start": 23.257,
+    "end": 23.438
+   },
+   {
+    "word": "outro",
+    "start": 23.438,
+    "end": 23.728
+   },
+   {
+    "word": "conceito,",
+    "start": 23.729,
+    "end": 24.383
+   },
+   {
+    "word": "meu",
+    "start": 24.402,
+    "end": 24.692
+   },
+   {
+    "word": "amigo,",
+    "start": 24.693,
+    "end": 25.019
+   },
+   {
+    "word": "espera",
+    "start": 25.148,
+    "end": 25.765
+   },
+   {
+    "word": "os",
+    "start": 25.766,
+    "end": 26.165
+   },
+   {
+    "word": "5,",
+    "start": 26.166,
+    "end": 26.583
+   },
+   {
+    "word": "6",
+    "start": 26.602,
+    "end": 26.801
+   },
+   {
+    "word": "minutos",
+    "start": 26.802,
+    "end": 27.219
+   },
+   {
+    "word": "de",
+    "start": 27.22,
+    "end": 27.492
+   },
+   {
+    "word": "lane",
+    "start": 27.493,
+    "end": 27.638
+   },
+   {
+    "word": "phase.",
+    "start": 27.638,
+    "end": 27.892
+   },
+   {
+    "word": "Quietinho,",
+    "start": 28.4,
+    "end": 28.917
+   },
+   {
+    "word": "joga.",
+    "start": 28.954,
+    "end": 29.662
+   },
+   {
+    "word": "Farma,",
+    "start": 29.8,
+    "end": 30.408
+   },
+   {
+    "word": "nega",
+    "start": 30.445,
+    "end": 31.131
+   },
+   {
+    "word": "farm,",
+    "start": 31.131,
+    "end": 31.367
+   },
+   {
+    "word": "farma",
+    "start": 31.641,
+    "end": 32.276
+   },
+   {
+    "word": "jungle,",
+    "start": 32.277,
+    "end": 32.494
+   },
+   {
+    "word": "pega",
+    "start": 32.786,
+    "end": 33.003
+   },
+   {
+    "word": "umas",
+    "start": 33.004,
+    "end": 33.203
+   },
+   {
+    "word": "caixinhas,",
+    "start": 33.204,
+    "end": 33.803
+   },
+   {
+    "word": "você",
+    "start": 33.877,
+    "end": 34.349
+   },
+   {
+    "word": "quer",
+    "start": 34.35,
+    "end": 34.767
+   },
+   {
+    "word": "ir",
+    "start": 34.768,
+    "end": 35.149
+   },
+   {
+    "word": "pra",
+    "start": 35.15,
+    "end": 35.24
+   },
+   {
+    "word": "porrada?",
+    "start": 35.241,
+    "end": 35.621
+   },
+   {
+    "word": "Espera",
+    "start": 35.731,
+    "end": 36.167
+   },
+   {
+    "word": "mais",
+    "start": 36.168,
+    "end": 36.258
+   },
+   {
+    "word": "um",
+    "start": 36.259,
+    "end": 36.367
+   },
+   {
+    "word": "pouquinho",
+    "start": 36.368,
+    "end": 36.567
+   },
+   {
+    "word": "que",
+    "start": 36.568,
+    "end": 36.712
+   },
+   {
+    "word": "vai",
+    "start": 36.713,
+    "end": 36.912
+   },
+   {
+    "word": "acontecer",
+    "start": 36.913,
+    "end": 37.294
+   },
+   {
+    "word": "a",
+    "start": 37.295,
+    "end": 37.44
+   },
+   {
+    "word": "porrada,",
+    "start": 37.441,
+    "end": 37.876
+   },
+   {
+    "word": "mas",
+    "start": 37.968,
+    "end": 38.385
+   },
+   {
+    "word": "o",
+    "start": 38.386,
+    "end": 38.494
+   },
+   {
+    "word": "cara",
+    "start": 38.495,
+    "end": 38.658
+   },
+   {
+    "word": "não,",
+    "start": 38.659,
+    "end": 38.876
+   },
+   {
+    "word": "ele",
+    "start": 38.913,
+    "end": 39.021
+   },
+   {
+    "word": "vai",
+    "start": 39.022,
+    "end": 39.167
+   },
+   {
+    "word": "lá",
+    "start": 39.168,
+    "end": 39.312
+   },
+   {
+    "word": "e",
+    "start": 39.313,
+    "end": 39.385
+   },
+   {
+    "word": "pica",
+    "start": 39.386,
+    "end": 39.658
+   },
+   {
+    "word": "Lash,",
+    "start": 39.659,
+    "end": 40.058
+   },
+   {
+    "word": "o",
+    "start": 40.131,
+    "end": 40.567
+   },
+   {
+    "word": "boneco",
+    "start": 40.568,
+    "end": 41.112
+   },
+   {
+    "word": "mais",
+    "start": 41.113,
+    "end": 41.276
+   },
+   {
+    "word": "sociopata",
+    "start": 41.277,
+    "end": 42.167
+   },
+   {
+    "word": "do",
+    "start": 42.168,
+    "end": 42.349
+   },
+   {
+    "word": "mundo",
+    "start": 42.35,
+    "end": 42.567
+   },
+   {
+    "word": "e",
+    "start": 42.912,
+    "end": 43.056
+   },
+   {
+    "word": "simplesmente",
+    "start": 43.057,
+    "end": 43.365
+   },
+   {
+    "word": "fica",
+    "start": 43.366,
+    "end": 43.656
+   },
+   {
+    "word": "dando",
+    "start": 43.657,
+    "end": 43.929
+   },
+   {
+    "word": "dash",
+    "start": 43.93,
+    "end": 44.238
+   },
+   {
+    "word": "e",
+    "start": 44.239,
+    "end": 44.675
+   },
+   {
+    "word": "soco",
+    "start": 44.675,
+    "end": 45.329
+   },
+   {
+    "word": "infinito",
+    "start": 45.33,
+    "end": 46.056
+   },
+   {
+    "word": "na",
+    "start": 46.057,
+    "end": 46.364
+   },
+   {
+    "word": "frente",
+    "start": 46.365,
+    "end": 46.673
+   },
+   {
+    "word": "da",
+    "start": 46.674,
+    "end": 46.891
+   },
+   {
+    "word": "galera",
+    "start": 46.892,
+    "end": 47.127
+   },
+   {
+    "word": "e",
+    "start": 47.128,
+    "end": 47.4
+   },
+   {
+    "word": "vai",
+    "start": 47.401,
+    "end": 47.527
+   },
+   {
+    "word": "lá,",
+    "start": 47.528,
+    "end": 47.727
+   },
+   {
+    "word": "morre",
+    "start": 47.765,
+    "end": 48.236
+   },
+   {
+    "word": "na",
+    "start": 48.237,
+    "end": 48.309
+   },
+   {
+    "word": "torre",
+    "start": 48.31,
+    "end": 48.6
+   },
+   {
+    "word": "dos",
+    "start": 48.601,
+    "end": 48.691
+   },
+   {
+    "word": "caras.",
+    "start": 48.692,
+    "end": 49.109
+   },
+   {
+    "word": "Mano,",
+    "start": 49.146,
+    "end": 49.673
+   },
+   {
+    "word": "tenha",
+    "start": 49.674,
+    "end": 50.0
+   },
+   {
+    "word": "paciência.",
+    "start": 50.001,
+    "end": 50.546
+   },
+   {
+    "word": "É",
+    "start": 50.601,
+    "end": 50.909
+   },
+   {
+    "word": "muito",
+    "start": 50.91,
+    "end": 51.309
+   },
+   {
+    "word": "melhor",
+    "start": 51.31,
+    "end": 51.691
+   },
+   {
+    "word": "você",
+    "start": 51.692,
+    "end": 51.964
+   },
+   {
+    "word": "passar",
+    "start": 51.965,
+    "end": 52.346
+   },
+   {
+    "word": "lane",
+    "start": 52.346,
+    "end": 52.564
+   },
+   {
+    "word": "phase",
+    "start": 52.565,
+    "end": 52.982
+   },
+   {
+    "word": "do",
+    "start": 52.983,
+    "end": 53.364
+   },
+   {
+    "word": "Deadlock.",
+    "start": 53.365,
+    "end": 53.873
+   },
+   {
+    "word": "Tranquilo,",
+    "start": 54.2,
+    "end": 54.881
+   },
+   {
+    "word": "com",
+    "start": 54.882,
+    "end": 55.141
+   },
+   {
+    "word": "uma",
+    "start": 55.142,
+    "end": 55.286
+   },
+   {
+    "word": "desvantagem",
+    "start": 55.287,
+    "end": 56.414
+   },
+   {
+    "word": "em",
+    "start": 56.414,
+    "end": 56.795
+   },
+   {
+    "word": "alma",
+    "start": 56.796,
+    "end": 57.086
+   },
+   {
+    "word": "e",
+    "start": 57.087,
+    "end": 57.432
+   },
+   {
+    "word": "ali",
+    "start": 57.433,
+    "end": 57.704
+   },
+   {
+    "word": "na",
+    "start": 57.705,
+    "end": 57.814
+   },
+   {
+    "word": "frente",
+    "start": 57.814,
+    "end": 58.123
+   },
+   {
+    "word": "você",
+    "start": 58.124,
+    "end": 58.359
+   },
+   {
+    "word": "conseguir",
+    "start": 58.36,
+    "end": 58.977
+   },
+   {
+    "word": "compensar",
+    "start": 58.978,
+    "end": 59.577
+   },
+   {
+    "word": "isso",
+    "start": 59.578,
+    "end": 59.723
+   },
+   {
+    "word": "fazendo",
+    "start": 59.724,
+    "end": 59.959
+   },
+   {
+    "word": "a",
+    "start": 59.96,
+    "end": 60.141
+   },
+   {
+    "word": "rotação",
+    "start": 60.142,
+    "end": 60.541
+   },
+   {
+    "word": "certa.",
+    "start": 60.542,
+    "end": 60.832
+   },
+   {
+    "word": "Sabendo",
+    "start": 61.3,
+    "end": 61.945
+   },
+   {
+    "word": "ir",
+    "start": 61.945,
+    "end": 62.49
+   },
+   {
+    "word": "para",
+    "start": 62.491,
+    "end": 62.844
+   },
+   {
+    "word": "os",
+    "start": 62.845,
+    "end": 62.935
+   },
+   {
+    "word": "caminhos",
+    "start": 62.936,
+    "end": 63.335
+   },
+   {
+    "word": "corretos",
+    "start": 63.336,
+    "end": 63.863
+   },
+   {
+    "word": "e",
+    "start": 63.863,
+    "end": 63.935
+   },
+   {
+    "word": "saber",
+    "start": 63.936,
+    "end": 64.19
+   },
+   {
+    "word": "criar",
+    "start": 64.191,
+    "end": 64.699
+   },
+   {
+    "word": "uma",
+    "start": 64.7,
+    "end": 64.972
+   },
+   {
+    "word": "rota",
+    "start": 64.973,
+    "end": 65.426
+   },
+   {
+    "word": "para",
+    "start": 65.427,
+    "end": 65.535
+   },
+   {
+    "word": "fazer",
+    "start": 65.536,
+    "end": 65.844
+   },
+   {
+    "word": "uma",
+    "start": 65.845,
+    "end": 65.99
+   },
+   {
+    "word": "jungle.",
+    "start": 65.991,
+    "end": 66.281
+   },
+   {
+    "word": "Cara,",
+    "start": 66.7,
+    "end": 66.927
+   },
+   {
+    "word": "tenha",
+    "start": 66.964,
+    "end": 67.283
+   },
+   {
+    "word": "paciência.",
+    "start": 67.284,
+    "end": 67.847
+   },
+   {
+    "word": "Muitas",
+    "start": 67.884,
+    "end": 68.512
+   },
+   {
+    "word": "vezes",
+    "start": 68.513,
+    "end": 68.839
+   },
+   {
+    "word": "no",
+    "start": 68.84,
+    "end": 69.039
+   },
+   {
+    "word": "Deadlock",
+    "start": 69.04,
+    "end": 69.566
+   },
+   {
+    "word": "não",
+    "start": 69.567,
+    "end": 70.094
+   },
+   {
+    "word": "é",
+    "start": 70.666,
+    "end": 70.783
+   },
+   {
+    "word": "inteligente",
+    "start": 70.784,
+    "end": 71.796
+   },
+   {
+    "word": "você",
+    "start": 71.797,
+    "end": 71.942
+   },
+   {
+    "word": "tá",
+    "start": 71.943,
+    "end": 72.196
+   },
+   {
+    "word": "lutando",
+    "start": 72.197,
+    "end": 72.523
+   },
+   {
+    "word": "a",
+    "start": 72.524,
+    "end": 72.614
+   },
+   {
+    "word": "todo",
+    "start": 72.615,
+    "end": 72.705
+   },
+   {
+    "word": "custo.",
+    "start": 72.706,
+    "end": 73.578
+   },
+   {
+    "word": "Kill",
+    "start": 73.7,
+    "end": 73.872
+   },
+   {
+    "word": "não",
+    "start": 73.873,
+    "end": 74.072
+   },
+   {
+    "word": "é",
+    "start": 74.073,
+    "end": 74.272
+   },
+   {
+    "word": "tão",
+    "start": 74.273,
+    "end": 74.49
+   },
+   {
+    "word": "importante",
+    "start": 74.491,
+    "end": 74.927
+   },
+   {
+    "word": "no",
+    "start": 74.928,
+    "end": 75.163
+   },
+   {
+    "word": "Deadlock.",
+    "start": 75.164,
+    "end": 75.581
+   },
+   {
+    "word": "Consigo",
+    "start": 76.511,
+    "end": 77.001
+   },
+   {
+    "word": "subir",
+    "start": 77.002,
+    "end": 77.183
+   },
+   {
+    "word": "muito",
+    "start": 77.184,
+    "end": 77.565
+   },
+   {
+    "word": "fácil",
+    "start": 77.566,
+    "end": 78.056
+   },
+   {
+    "word": "de",
+    "start": 78.056,
+    "end": 78.256
+   },
+   {
+    "word": "rank",
+    "start": 78.256,
+    "end": 78.419
+   },
+   {
+    "word": "no",
+    "start": 78.42,
+    "end": 78.656
+   },
+   {
+    "word": "Deadlock",
+    "start": 78.656,
+    "end": 79.092
+   },
+   {
+    "word": "simplesmente",
+    "start": 79.093,
+    "end": 79.837
+   },
+   {
+    "word": "evitando",
+    "start": 79.838,
+    "end": 81.11
+   },
+   {
+    "word": "morrer.",
+    "start": 81.111,
+    "end": 81.528
+   },
+   {
+    "word": "Puxando",
+    "start": 81.746,
+    "end": 82.381
+   },
+   {
+    "word": "side",
+    "start": 82.382,
+    "end": 82.927
+   },
+   {
+    "word": "quando",
+    "start": 82.928,
+    "end": 83.345
+   },
+   {
+    "word": "é",
+    "start": 83.346,
+    "end": 83.545
+   },
+   {
+    "word": "necessário",
+    "start": 83.546,
+    "end": 84.2
+   },
+   {
+    "word": "e",
+    "start": 84.2,
+    "end": 84.431
+   },
+   {
+    "word": "farmando",
+    "start": 84.432,
+    "end": 85.031
+   },
+   {
+    "word": "o",
+    "start": 85.032,
+    "end": 85.085
+   },
+   {
+    "word": "máximo",
+    "start": 85.086,
+    "end": 85.322
+   },
+   {
+    "word": "possível.",
+    "start": 85.323,
+    "end": 85.813
+   },
+   {
+    "word": "Quase",
+    "start": 86.266,
+    "end": 86.51
+   },
+   {
+    "word": "todo",
+    "start": 86.511,
+    "end": 86.637
+   },
+   {
+    "word": "jogo",
+    "start": 86.638,
+    "end": 86.874
+   },
+   {
+    "word": "eu",
+    "start": 86.875,
+    "end": 87.037
+   },
+   {
+    "word": "sou",
+    "start": 87.038,
+    "end": 87.128
+   },
+   {
+    "word": "top",
+    "start": 87.129,
+    "end": 87.292
+   },
+   {
+    "word": "2,",
+    "start": 87.293,
+    "end": 87.601
+   },
+   {
+    "word": "top",
+    "start": 87.657,
+    "end": 87.783
+   },
+   {
+    "word": "3",
+    "start": 87.784,
+    "end": 88.074
+   },
+   {
+    "word": "de",
+    "start": 88.075,
+    "end": 88.274
+   },
+   {
+    "word": "farm,",
+    "start": 88.275,
+    "end": 88.674
+   },
+   {
+    "word": "de",
+    "start": 88.82,
+    "end": 89.274
+   },
+   {
+    "word": "almas,",
+    "start": 89.275,
+    "end": 89.728
+   },
+   {
+    "word": "porque",
+    "start": 89.747,
+    "end": 90.13
+   },
+   {
+    "word": "eu",
+    "start": 90.131,
+    "end": 90.512
+   },
+   {
+    "word": "não",
+    "start": 90.513,
+    "end": 90.676
+   },
+   {
+    "word": "morro",
+    "start": 90.676,
+    "end": 91.076
+   },
+   {
+    "word": "e",
+    "start": 91.076,
+    "end": 91.13
+   },
+   {
+    "word": "estou",
+    "start": 91.131,
+    "end": 91.257
+   },
+   {
+    "word": "o",
+    "start": 91.258,
+    "end": 91.33
+   },
+   {
+    "word": "tempo",
+    "start": 91.331,
+    "end": 91.803
+   },
+   {
+    "word": "todo",
+    "start": 91.804,
+    "end": 92.148
+   },
+   {
+    "word": "pensando",
+    "start": 92.149,
+    "end": 92.603
+   },
+   {
+    "word": "como",
+    "start": 92.604,
+    "end": 93.166
+   },
+   {
+    "word": "que",
+    "start": 93.167,
+    "end": 93.439
+   },
+   {
+    "word": "eu",
+    "start": 93.44,
+    "end": 93.512
+   },
+   {
+    "word": "vou",
+    "start": 93.513,
+    "end": 93.676
+   },
+   {
+    "word": "criar",
+    "start": 93.676,
+    "end": 93.912
+   },
+   {
+    "word": "vantagem",
+    "start": 93.913,
+    "end": 94.712
+   },
+   {
+    "word": "para",
+    "start": 94.713,
+    "end": 94.948
+   },
+   {
+    "word": "o",
+    "start": 94.949,
+    "end": 95.112
+   },
+   {
+    "word": "late",
+    "start": 95.113,
+    "end": 95.239
+   },
+   {
+    "word": "game,",
+    "start": 95.24,
+    "end": 95.53
+   },
+   {
+    "word": "para",
+    "start": 95.713,
+    "end": 95.821
+   },
+   {
+    "word": "o",
+    "start": 95.822,
+    "end": 95.912
+   },
+   {
+    "word": "momento",
+    "start": 95.913,
+    "end": 96.13
+   },
+   {
+    "word": "decisivo",
+    "start": 96.131,
+    "end": 96.821
+   },
+   {
+    "word": "e",
+    "start": 96.913,
+    "end": 97.294
+   },
+   {
+    "word": "principalmente,",
+    "start": 97.295,
+    "end": 97.966
+   },
+   {
+    "word": "cara,",
+    "start": 98.149,
+    "end": 98.512
+   },
+   {
+    "word": "quando",
+    "start": 98.622,
+    "end": 98.933
+   },
+   {
+    "word": "eu",
+    "start": 98.933,
+    "end": 99.078
+   },
+   {
+    "word": "jogo",
+    "start": 99.079,
+    "end": 99.26
+   },
+   {
+    "word": "de",
+    "start": 99.261,
+    "end": 99.405
+   },
+   {
+    "word": "Rat",
+    "start": 99.406,
+    "end": 99.514
+   },
+   {
+    "word": "King",
+    "start": 99.515,
+    "end": 99.769
+   },
+   {
+    "word": "eu",
+    "start": 99.77,
+    "end": 99.969
+   },
+   {
+    "word": "consigo",
+    "start": 99.97,
+    "end": 100.223
+   },
+   {
+    "word": "fazer",
+    "start": 100.224,
+    "end": 100.551
+   },
+   {
+    "word": "isso",
+    "start": 100.552,
+    "end": 100.842
+   },
+   {
+    "word": "absurdamente.",
+    "start": 100.843,
+    "end": 101.841
+   },
+   {
+    "word": "Eu",
+    "start": 101.842,
+    "end": 102.041
+   },
+   {
+    "word": "acabei",
+    "start": 102.042,
+    "end": 102.277
+   },
+   {
+    "word": "de",
+    "start": 102.278,
+    "end": 102.35
+   },
+   {
+    "word": "terminar",
+    "start": 102.351,
+    "end": 102.641
+   },
+   {
+    "word": "um",
+    "start": 102.642,
+    "end": 102.841
+   },
+   {
+    "word": "jogo",
+    "start": 102.842,
+    "end": 103.023
+   },
+   {
+    "word": "aqui",
+    "start": 103.023,
+    "end": 103.223
+   },
+   {
+    "word": "em",
+    "start": 103.223,
+    "end": 103.295
+   },
+   {
+    "word": "que",
+    "start": 103.296,
+    "end": 103.386
+   },
+   {
+    "word": "eu",
+    "start": 103.387,
+    "end": 103.495
+   },
+   {
+    "word": "terminei",
+    "start": 103.496,
+    "end": 104.204
+   },
+   {
+    "word": "com",
+    "start": 104.205,
+    "end": 104.313
+   },
+   {
+    "word": "quase",
+    "start": 104.314,
+    "end": 104.732
+   },
+   {
+    "word": "90",
+    "start": 104.733,
+    "end": 105.804
+   },
+   {
+    "word": "mil",
+    "start": 105.805,
+    "end": 106.041
+   },
+   {
+    "word": "de",
+    "start": 106.042,
+    "end": 106.241
+   },
+   {
+    "word": "almas,",
+    "start": 106.242,
+    "end": 106.877
+   },
+   {
+    "word": "acho",
+    "start": 106.878,
+    "end": 107.004
+   },
+   {
+    "word": "que",
+    "start": 107.005,
+    "end": 107.038
+   },
+   {
+    "word": "foi",
+    "start": 107.005,
+    "end": 107.15
+   },
+   {
+    "word": "83,",
+    "start": 107.151,
+    "end": 107.495
+   },
+   {
+    "word": "alguma",
+    "start": 107.842,
+    "end": 108.041
+   },
+   {
+    "word": "coisa",
+    "start": 108.042,
+    "end": 108.295
+   },
+   {
+    "word": "assim,",
+    "start": 108.296,
+    "end": 108.513
+   },
+   {
+    "word": "eu",
+    "start": 108.605,
+    "end": 108.677
+   },
+   {
+    "word": "fui",
+    "start": 108.678,
+    "end": 108.786
+   },
+   {
+    "word": "segundo",
+    "start": 108.787,
+    "end": 109.041
+   },
+   {
+    "word": "maior",
+    "start": 109.042,
+    "end": 109.332
+   },
+   {
+    "word": "alma",
+    "start": 109.646,
+    "end": 109.954
+   },
+   {
+    "word": "do",
+    "start": 109.955,
+    "end": 110.063
+   },
+   {
+    "word": "jogo",
+    "start": 110.064,
+    "end": 110.318
+   },
+   {
+    "word": "e",
+    "start": 110.319,
+    "end": 110.609
+   },
+   {
+    "word": "eu",
+    "start": 110.61,
+    "end": 110.772
+   },
+   {
+    "word": "morri",
+    "start": 110.773,
+    "end": 111.009
+   },
+   {
+    "word": "uma",
+    "start": 111.01,
+    "end": 111.227
+   },
+   {
+    "word": "vez,",
+    "start": 111.228,
+    "end": 111.5
+   },
+   {
+    "word": "porque",
+    "start": 111.664,
+    "end": 111.845
+   },
+   {
+    "word": "eu",
+    "start": 111.846,
+    "end": 111.972
+   },
+   {
+    "word": "fiz",
+    "start": 111.973,
+    "end": 112.154
+   },
+   {
+    "word": "uma",
+    "start": 112.155,
+    "end": 112.39
+   },
+   {
+    "word": "build",
+    "start": 112.391,
+    "end": 112.645
+   },
+   {
+    "word": "imortal",
+    "start": 112.646,
+    "end": 113.209
+   },
+   {
+    "word": "do",
+    "start": 113.21,
+    "end": 113.5
+   },
+   {
+    "word": "rato,",
+    "start": 113.5,
+    "end": 113.881
+   },
+   {
+    "word": "mas",
+    "start": 113.919,
+    "end": 114.318
+   },
+   {
+    "word": "principalmente",
+    "start": 114.319,
+    "end": 114.982
+   },
+   {
+    "word": "porque",
+    "start": 114.983,
+    "end": 115.546
+   },
+   {
+    "word": "eu",
+    "start": 115.547,
+    "end": 115.709
+   },
+   {
+    "word": "soube",
+    "start": 115.71,
+    "end": 116.018
+   },
+   {
+    "word": "me",
+    "start": 116.019,
+    "end": 116.128
+   },
+   {
+    "word": "posicionar",
+    "start": 116.128,
+    "end": 116.691
+   },
+   {
+    "word": "no",
+    "start": 116.692,
+    "end": 116.764
+   },
+   {
+    "word": "jogo.",
+    "start": 116.765,
+    "end": 117.018
+   },
+   {
+    "word": "A",
+    "start": 117.299,
+    "end": 117.332
+   },
+   {
+    "word": "única",
+    "start": 117.341,
+    "end": 117.631
+   },
+   {
+    "word": "vez",
+    "start": 117.632,
+    "end": 118.031
+   },
+   {
+    "word": "em",
+    "start": 118.032,
+    "end": 118.195
+   },
+   {
+    "word": "que",
+    "start": 118.196,
+    "end": 118.267
+   },
+   {
+    "word": "eu",
+    "start": 118.268,
+    "end": 118.377
+   },
+   {
+    "word": "me",
+    "start": 118.377,
+    "end": 118.486
+   },
+   {
+    "word": "posicionei",
+    "start": 118.487,
+    "end": 119.195
+   },
+   {
+    "word": "duvidando",
+    "start": 119.196,
+    "end": 120.195
+   },
+   {
+    "word": "da",
+    "start": 120.196,
+    "end": 120.358
+   },
+   {
+    "word": "capacidade",
+    "start": 120.359,
+    "end": 120.886
+   },
+   {
+    "word": "dos",
+    "start": 120.887,
+    "end": 121.14
+   },
+   {
+    "word": "caras,",
+    "start": 121.141,
+    "end": 121.686
+   },
+   {
+    "word": "até",
+    "start": 121.687,
+    "end": 122.086
+   },
+   {
+    "word": "porque",
+    "start": 122.087,
+    "end": 122.249
+   },
+   {
+    "word": "eu",
+    "start": 122.25,
+    "end": 122.413
+   },
+   {
+    "word": "tava",
+    "start": 122.414,
+    "end": 122.522
+   },
+   {
+    "word": "praticamente",
+    "start": 122.523,
+    "end": 123.267
+   },
+   {
+    "word": "imortal",
+    "start": 123.268,
+    "end": 123.958
+   },
+   {
+    "word": "como",
+    "start": 123.959,
+    "end": 124.358
+   },
+   {
+    "word": "rato,",
+    "start": 124.359,
+    "end": 124.831
+   },
+   {
+    "word": "eu",
+    "start": 124.887,
+    "end": 125.195
+   },
+   {
+    "word": "morri.",
+    "start": 125.196,
+    "end": 125.486
+   },
+   {
+    "word": "Então",
+    "start": 125.577,
+    "end": 126.049
+   },
+   {
+    "word": "eu",
+    "start": 126.05,
+    "end": 126.158
+   },
+   {
+    "word": "tive",
+    "start": 126.159,
+    "end": 126.304
+   },
+   {
+    "word": "uma",
+    "start": 126.305,
+    "end": 126.504
+   },
+   {
+    "word": "morte",
+    "start": 126.505,
+    "end": 126.995
+   },
+   {
+    "word": "na",
+    "start": 126.996,
+    "end": 127.213
+   },
+   {
+    "word": "partida.",
+    "start": 127.214,
+    "end": 127.758
+   },
+   {
+    "word": "Se",
+    "start": 127.85,
+    "end": 128.122
+   },
+   {
+    "word": "eu",
+    "start": 128.123,
+    "end": 128.231
+   },
+   {
+    "word": "não",
+    "start": 128.232,
+    "end": 128.304
+   },
+   {
+    "word": "tivesse",
+    "start": 128.305,
+    "end": 128.54
+   },
+   {
+    "word": "feito",
+    "start": 128.541,
+    "end": 128.777
+   },
+   {
+    "word": "isso,",
+    "start": 128.777,
+    "end": 129.031
+   },
+   {
+    "word": "eu",
+    "start": 129.068,
+    "end": 129.122
+   },
+   {
+    "word": "não",
+    "start": 129.123,
+    "end": 129.158
+   },
+   {
+    "word": "teria",
+    "start": 129.159,
+    "end": 129.34
+   },
+   {
+    "word": "morrido",
+    "start": 129.341,
+    "end": 129.758
+   },
+   {
+    "word": "em",
+    "start": 129.759,
+    "end": 129.867
+   },
+   {
+    "word": "nenhum",
+    "start": 129.868,
+    "end": 129.995
+   },
+   {
+    "word": "momento.",
+    "start": 129.996,
+    "end": 130.34
+   },
+   {
+    "word": "Então,",
+    "start": 130.614,
+    "end": 130.795
+   },
+   {
+    "word": "cara,",
+    "start": 130.796,
+    "end": 131.031
+   },
+   {
+    "word": "senta",
+    "start": 131.141,
+    "end": 131.868
+   },
+   {
+    "word": "a",
+    "start": 131.869,
+    "end": 132.05
+   },
+   {
+    "word": "bunda",
+    "start": 132.05,
+    "end": 132.522
+   },
+   {
+    "word": "na",
+    "start": 132.523,
+    "end": 132.631
+   },
+   {
+    "word": "cadeira",
+    "start": 132.632,
+    "end": 133.159
+   },
+   {
+    "word": "e",
+    "start": 133.16,
+    "end": 133.413
+   },
+   {
+    "word": "joga",
+    "start": 133.414,
+    "end": 133.795
+   },
+   {
+    "word": "tranquilinho",
+    "start": 133.796,
+    "end": 134.34
+   },
+   {
+    "word": "que",
+    "start": 134.341,
+    "end": 134.74
+   },
+   {
+    "word": "você",
+    "start": 134.741,
+    "end": 134.976
+   },
+   {
+    "word": "vai",
+    "start": 134.977,
+    "end": 135.358
+   },
+   {
+    "word": "ter",
+    "start": 135.359,
+    "end": 135.667
+   },
+   {
+    "word": "uma",
+    "start": 135.668,
+    "end": 135.958
+   },
+   {
+    "word": "recompensa",
+    "start": 135.959,
+    "end": 136.631
+   },
+   {
+    "word": "lá",
+    "start": 136.632,
+    "end": 137.194
+   },
+   {
+    "word": "no",
+    "start": 137.195,
+    "end": 137.594
+   },
+   {
+    "word": "late",
+    "start": 137.595,
+    "end": 137.794
+   },
+   {
+    "word": "game",
+    "start": 137.795,
+    "end": 138.049
+   },
+   {
+    "word": "ou",
+    "start": 138.05,
+    "end": 138.376
+   },
+   {
+    "word": "até",
+    "start": 138.377,
+    "end": 138.558
+   },
+   {
+    "word": "no",
+    "start": 138.559,
+    "end": 138.722
+   },
+   {
+    "word": "mid",
+    "start": 138.722,
+    "end": 138.867
+   },
+   {
+    "word": "game",
+    "start": 138.868,
+    "end": 139.122
+   },
+   {
+    "word": "e",
+    "start": 139.122,
+    "end": 139.431
+   },
+   {
+    "word": "vai",
+    "start": 139.432,
+    "end": 139.667
+   },
+   {
+    "word": "valer",
+    "start": 139.668,
+    "end": 139.922
+   },
+   {
+    "word": "bem.",
+    "start": 139.922,
+    "end": 140.085
+   },
+   {
+    "word": "Então",
+    "start": 140.086,
+    "end": 140.358
+   },
+   {
+    "word": "assim",
+    "start": 140.359,
+    "end": 140.594
+   },
+   {
+    "word": "ó,",
+    "start": 140.595,
+    "end": 140.758
+   },
+   {
+    "word": "pica-Lash,",
+    "start": 140.777,
+    "end": 141.303
+   },
+   {
+    "word": "fica",
+    "start": 141.304,
+    "end": 141.667
+   },
+   {
+    "word": "de",
+    "start": 141.668,
+    "end": 142.049
+   },
+   {
+    "word": "boa",
+    "start": 142.05,
+    "end": 142.267
+   },
+   {
+    "word": "mano,",
+    "start": 142.268,
+    "end": 142.485
+   },
+   {
+    "word": "você",
+    "start": 142.577,
+    "end": 142.703
+   },
+   {
+    "word": "vai",
+    "start": 142.704,
+    "end": 142.922
+   },
+   {
+    "word": "brilhar",
+    "start": 142.923,
+    "end": 143.303
+   },
+   {
+    "word": "quando",
+    "start": 143.304,
+    "end": 143.485
+   },
+   {
+    "word": "você",
+    "start": 143.486,
+    "end": 143.649
+   },
+   {
+    "word": "pegar",
+    "start": 143.65,
+    "end": 143.903
+   },
+   {
+    "word": "sua",
+    "start": 143.904,
+    "end": 144.067
+   },
+   {
+    "word": "ult,",
+    "start": 144.068,
+    "end": 144.285
+   },
+   {
+    "word": "beleza?",
+    "start": 144.413,
+    "end": 144.724
+   },
+   {
+    "word": "É",
+    "start": 144.906,
+    "end": 145.415
+   },
+   {
+    "word": "isso",
+    "start": 145.416,
+    "end": 145.669
+   },
+   {
+    "word": "galera,",
+    "start": 145.67,
+    "end": 145.924
+   },
+   {
+    "word": "tamo",
+    "start": 146.197,
+    "end": 146.3
+   },
+   {
+    "word": "Eu",
+    "start": 146.3,
+    "end": 146.4
+   },
+   {
+    "word": "me",
+    "start": 146.401,
+    "end": 146.564
+   },
+   {
+    "word": "chamo",
+    "start": 146.564,
+    "end": 146.927
+   },
+   {
+    "word": "Blies",
+    "start": 146.928,
+    "end": 147.236
+   },
+   {
+    "word": "faço",
+    "start": 147.237,
+    "end": 147.618
+   },
+   {
+    "word": "live",
+    "start": 147.619,
+    "end": 148.0
+   },
+   {
+    "word": "de",
+    "start": 148.001,
+    "end": 148.218
+   },
+   {
+    "word": "Deadlock",
+    "start": 148.219,
+    "end": 148.545
+   },
+   {
+    "word": "todos",
+    "start": 148.546,
+    "end": 148.873
+   },
+   {
+    "word": "os",
+    "start": 148.874,
+    "end": 149.073
+   },
+   {
+    "word": "dias",
+    "start": 149.074,
+    "end": 149.309
+   },
+   {
+    "word": "aqui",
+    "start": 149.31,
+    "end": 149.582
+   },
+   {
+    "word": "e",
+    "start": 149.583,
+    "end": 149.818
+   },
+   {
+    "word": "posto",
+    "start": 149.819,
+    "end": 150.127
+   },
+   {
+    "word": "alguns",
+    "start": 150.128,
+    "end": 150.236
+   },
+   {
+    "word": "outros",
+    "start": 150.237,
+    "end": 150.527
+   },
+   {
+    "word": "conteúdos",
+    "start": 150.528,
+    "end": 151.254
+   },
+   {
+    "word": "sobre",
+    "start": 151.255,
+    "end": 151.854
+   },
+   {
+    "word": "música,",
+    "start": 151.855,
+    "end": 152.345
+   },
+   {
+    "word": "sobre",
+    "start": 152.51,
+    "end": 152.8
+   },
+   {
+    "word": "Half-Life,",
+    "start": 152.801,
+    "end": 153.545
+   },
+   {
+    "word": "outros",
+    "start": 153.655,
+    "end": 153.873
+   },
+   {
+    "word": "jogos",
+    "start": 153.874,
+    "end": 154.473
+   },
+   {
+    "word": "também",
+    "start": 154.474,
+    "end": 154.782
+   },
+   {
+    "word": "que",
+    "start": 154.783,
+    "end": 154.927
+   },
+   {
+    "word": "eu",
+    "start": 154.928,
+    "end": 155.036
+   },
+   {
+    "word": "gosto",
+    "start": 155.037,
+    "end": 155.182
+   },
+   {
+    "word": "pra",
+    "start": 155.183,
+    "end": 155.364
+   },
+   {
+    "word": "caramba",
+    "start": 155.364,
+    "end": 155.727
+   },
+   {
+    "word": "se",
+    "start": 155.728,
+    "end": 156.296
+   },
+   {
+    "word": "você",
+    "start": 156.297,
+    "end": 156.569
+   },
+   {
+    "word": "gostou",
+    "start": 156.57,
+    "end": 157.005
+   },
+   {
+    "word": "me",
+    "start": 157.006,
+    "end": 157.096
+   },
+   {
+    "word": "segue",
+    "start": 157.097,
+    "end": 157.387
+   },
+   {
+    "word": "aqui",
+    "start": 157.388,
+    "end": 157.678
+   },
+   {
+    "word": "porque",
+    "start": 157.679,
+    "end": 158.133
+   },
+   {
+    "word": "eu",
+    "start": 158.134,
+    "end": 158.26
+   },
+   {
+    "word": "tenho",
+    "start": 158.261,
+    "end": 158.369
+   },
+   {
+    "word": "muita",
+    "start": 158.37,
+    "end": 158.678
+   },
+   {
+    "word": "coisa",
+    "start": 158.679,
+    "end": 158.878
+   },
+   {
+    "word": "boa",
+    "start": 158.879,
+    "end": 159.114
+   },
+   {
+    "word": "pra",
+    "start": 159.115,
+    "end": 159.242
+   },
+   {
+    "word": "mostrar",
+    "start": 159.243,
+    "end": 159.442
+   },
+   {
+    "word": "pra",
+    "start": 159.443,
+    "end": 159.624
+   },
+   {
+    "word": "vocês.",
+    "start": 159.624,
+    "end": 159.86
+   },
+   {
+    "word": "Beleza?",
+    "start": 160.199,
+    "end": 160.534
+   },
+   {
+    "word": "Tamo",
+    "start": 160.553,
+    "end": 161.025
+   },
+   {
+    "word": "junto,",
+    "start": 161.026,
+    "end": 161.207
+   },
+   {
+    "word": "até",
+    "start": 161.408,
+    "end": 161.789
+   },
+   {
+    "word": "a",
+    "start": 161.79,
+    "end": 161.934
+   },
+   {
+    "word": "próxima",
+    "start": 161.935,
+    "end": 162.352
+   },
+   {
+    "word": "e",
+    "start": 162.353,
+    "end": 162.68
+   },
+   {
+    "word": "valeu!",
+    "start": 162.68,
+    "end": 163.425
+   }
+  ]
+ }
+}

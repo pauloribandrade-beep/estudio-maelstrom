@@ -1,0 +1,272 @@
+{
+  "fps": 30,
+  "outro": 0.6,
+  "segments": [
+    {
+      "a": 0.167,
+      "b": 4.134,
+      "note": "gancho: feliz no Deadlock, mas me estressa a galera que acha que é jogo de matar; não é CS",
+      "frames": 119,
+      "editStart": 0.0
+    },
+    {
+      "a": 4.3,
+      "b": 11.967,
+      "note": "gancho: feliz no Deadlock, mas me estressa a galera que acha que é jogo de matar; não é CS",
+      "frames": 230,
+      "editStart": 3.967
+    },
+    {
+      "a": 12.155,
+      "b": 18.088,
+      "note": "gancho: feliz no Deadlock, mas me estressa a galera que acha que é jogo de matar; não é CS",
+      "frames": 178,
+      "editStart": 11.633
+    },
+    {
+      "a": 18.237,
+      "b": 20.137,
+      "note": "gancho: feliz no Deadlock, mas me estressa a galera que acha que é jogo de matar; não é CS",
+      "frames": 57,
+      "editStart": 17.567
+    },
+    {
+      "a": 21.273,
+      "b": 30.206,
+      "note": "não é Marvel Rivals nem Overwatch; espera 5, 6 min de lane phase",
+      "frames": 268,
+      "editStart": 19.467
+    },
+    {
+      "a": 30.555,
+      "b": 31.255,
+      "note": "quietinho, joga",
+      "frames": 21,
+      "editStart": 28.4
+    },
+    {
+      "a": 31.346,
+      "b": 32.046,
+      "note": "quietinho, joga",
+      "frames": 21,
+      "editStart": 29.1
+    },
+    {
+      "a": 33.282,
+      "b": 34.115,
+      "note": "farma, nega, jungle, caixinhas; o cara pica Lash, o boneco mais sociopata",
+      "frames": 25,
+      "editStart": 29.8
+    },
+    {
+      "a": 34.247,
+      "b": 46.48,
+      "note": "farma, nega, jungle, caixinhas; o cara pica Lash, o boneco mais sociopata",
+      "frames": 367,
+      "editStart": 30.633
+    },
+    {
+      "a": 52.036,
+      "b": 55.403,
+      "note": "dash e soco infinito, morre na torre (sem o 1º 'ficar dando dash pra...'); tenha paciência",
+      "frames": 101,
+      "editStart": 42.867
+    },
+    {
+      "a": 55.532,
+      "b": 63.499,
+      "note": "dash e soco infinito, morre na torre (sem o 1º 'ficar dando dash pra...'); tenha paciência",
+      "frames": 239,
+      "editStart": 46.233
+    },
+    {
+      "a": 64.009,
+      "b": 64.876,
+      "note": "tranquilo com desvantagem em alma, compensa com rotação",
+      "frames": 26,
+      "editStart": 54.2
+    },
+    {
+      "a": 64.997,
+      "b": 71.23,
+      "note": "tranquilo com desvantagem em alma, compensa com rotação",
+      "frames": 187,
+      "editStart": 55.067
+    },
+    {
+      "a": 71.7,
+      "b": 73.167,
+      "note": "caminhos corretos, rota de jungle",
+      "frames": 44,
+      "editStart": 61.3
+    },
+    {
+      "a": 73.248,
+      "b": 77.181,
+      "note": "caminhos corretos, rota de jungle",
+      "frames": 118,
+      "editStart": 62.767
+    },
+    {
+      "a": 77.645,
+      "b": 78.078,
+      "note": "tenha paciência, muitas vezes no Deadlock não",
+      "frames": 13,
+      "editStart": 66.7
+    },
+    {
+      "a": 78.176,
+      "b": 79.076,
+      "note": "tenha paciência, muitas vezes no Deadlock não",
+      "frames": 27,
+      "editStart": 67.133
+    },
+    {
+      "a": 79.193,
+      "b": 81.826,
+      "note": "tenha paciência, muitas vezes no Deadlock não",
+      "frames": 79,
+      "editStart": 68.033
+    },
+    {
+      "a": 82.182,
+      "b": 82.582,
+      "note": "é inteligente lutar a todo custo",
+      "frames": 12,
+      "editStart": 70.667
+    },
+    {
+      "a": 82.678,
+      "b": 85.311,
+      "note": "é inteligente lutar a todo custo",
+      "frames": 79,
+      "editStart": 71.067
+    },
+    {
+      "a": 85.636,
+      "b": 88.403,
+      "note": "kill não é tão importante",
+      "frames": 83,
+      "editStart": 73.7
+    },
+    {
+      "a": 89.455,
+      "b": 94.688,
+      "note": "subo de rank evitando morrer",
+      "frames": 157,
+      "editStart": 76.467
+    },
+    {
+      "a": 95.245,
+      "b": 97.945,
+      "note": "puxando side e farmando (sem o 'quase todo jogo' cortado)",
+      "frames": 81,
+      "editStart": 81.7
+    },
+    {
+      "a": 98.132,
+      "b": 99.999,
+      "note": "puxando side e farmando (sem o 'quase todo jogo' cortado)",
+      "frames": 56,
+      "editStart": 84.4
+    },
+    {
+      "a": 103.264,
+      "b": 106.931,
+      "note": "top 2/3 de almas porque não morro; Rat King, 83 mil almas, segundo maior",
+      "frames": 110,
+      "editStart": 86.267
+    },
+    {
+      "a": 107.002,
+      "b": 115.835,
+      "note": "top 2/3 de almas porque não morro; Rat King, 83 mil almas, segundo maior",
+      "frames": 265,
+      "editStart": 89.933
+    },
+    {
+      "a": 115.978,
+      "b": 118.278,
+      "note": "top 2/3 de almas porque não morro; Rat King, 83 mil almas, segundo maior",
+      "frames": 69,
+      "editStart": 98.767
+    },
+    {
+      "a": 118.388,
+      "b": 126.921,
+      "note": "top 2/3 de almas porque não morro; Rat King, 83 mil almas, segundo maior",
+      "frames": 256,
+      "editStart": 101.067
+    },
+    {
+      "a": 127.445,
+      "b": 132.412,
+      "note": "alma do jogo, morri uma vez: build imortal, posicionamento (sem o 1º 'a única vez')",
+      "frames": 149,
+      "editStart": 109.6
+    },
+    {
+      "a": 132.583,
+      "b": 135.316,
+      "note": "alma do jogo, morri uma vez: build imortal, posicionamento (sem o 1º 'a única vez')",
+      "frames": 82,
+      "editStart": 114.567
+    },
+    {
+      "a": 143.867,
+      "b": 157.834,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 419,
+      "editStart": 117.3
+    },
+    {
+      "a": 157.961,
+      "b": 161.328,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 101,
+      "editStart": 131.267
+    },
+    {
+      "a": 161.456,
+      "b": 168.523,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 212,
+      "editStart": 134.633
+    },
+    {
+      "a": 168.631,
+      "b": 171.464,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 85,
+      "editStart": 141.7
+    },
+    {
+      "a": 171.572,
+      "b": 173.339,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 53,
+      "editStart": 144.533
+    },
+    {
+      "a": 174.48,
+      "b": 184.113,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 289,
+      "editStart": 146.3
+    },
+    {
+      "a": 184.254,
+      "b": 188.521,
+      "note": "a única vez que fui atrevido, morri; senta a bunda na cadeira; pica-Lash fica de boa; Blies, live, segue",
+      "frames": 128,
+      "editStart": 155.933
+    },
+    {
+      "a": 188.864,
+      "b": 192.231,
+      "note": "tamo junto, até a próxima",
+      "frames": 101,
+      "editStart": 160.2
+    }
+  ]
+}

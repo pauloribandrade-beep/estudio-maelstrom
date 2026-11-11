@@ -1,0 +1,23 @@
+{
+ "hideout": 5.0,
+ "play": 6.0,
+ "hideout2": 5.0,
+ "pumpkins": 4.0,
+ "masks": 2.2,
+ "cauldrons": 3.8,
+ "cauldron_break": 4.8,
+ "candy_get": 3.6,
+ "candy_tip": 6.5,
+ "green_lane": 12.0,
+ "approach": 4.4,
+ "troll": 15.0,
+ "midboss": 4.5,
+ "crystals": 4.5,
+ "ratult": 4.0,
+ "run": 3.1,
+ "pumpkin_head": 2.4,
+ "cauldron_hide": 4.5,
+ "nelson": 1.5,
+ "flag": 3.0,
+ "hero": 1.9
+}

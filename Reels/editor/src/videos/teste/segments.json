@@ -1,0 +1,35 @@
+{
+  "fps": 30,
+  "outro": 2.5,
+  "segments": [
+    {
+      "a": 11.82,
+      "b": 21.7,
+      "note": "gancho: vou pensar / fica à vontade / ela não volta",
+      "frames": 296,
+      "editStart": 0.0
+    },
+    {
+      "a": 25.46,
+      "b": 32.5,
+      "note": "virada: vou pensar não é não",
+      "frames": 211,
+      "editStart": 9.867
+    },
+    {
+      "a": 37.28,
+      "b": 46.82,
+      "note": "situação 1: valor",
+      "frames": 286,
+      "editStart": 16.9
+    },
+    {
+      "a": 51.04,
+      "b": 59.4,
+      "note": "condução + CTA PENSAR",
+      "frames": 251,
+      "editStart": 26.433
+    }
+  ],
+  "totalFrames": 1119
+}

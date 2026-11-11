@@ -1,0 +1,93 @@
+{
+  "_leia": "Perfil do Estúdio: tudo que muda de uma pessoa (ou conta) para outra fica aqui, fora do código. A identidade que aparece nos vídeos (@, foto e cores) fica em brand.json.",
+  "estudio": "Maelstrom",
+  "pilares": {
+    "_leia": "Pilares de conteúdo. 'campo' é o rótulo no cabeçalho do roteiro (ex.: **Pilar:** O). 'urgencia' opcional: vídeo desse pilar sem urgência no roteiro entra com ela no calendário.",
+    "campo": "Pilar",
+    "itens": [
+      {
+        "id": "T",
+        "nome": "Técnico",
+        "cor": "#60a5fa"
+      },
+      {
+        "id": "A",
+        "nome": "Autoridade",
+        "cor": "#a78bfa"
+      },
+      {
+        "id": "C",
+        "nome": "Conexão",
+        "cor": "#34d399"
+      },
+      {
+        "id": "O",
+        "nome": "Objeções",
+        "cor": "#fbbf24"
+      },
+      {
+        "id": "H",
+        "nome": "Hype",
+        "cor": "#f87171",
+        "urgencia": "48h"
+      }
+    ]
+  },
+  "horarios": {
+    "_leia": "Horários da sugestão do calendário, por quantidade de vídeos por dia (1 a 3). 'hoje' = horários para o que é urgente no mesmo dia.",
+    "hoje": [
+      "18:30",
+      "19:30",
+      "21:00"
+    ],
+    "1": {
+      "semana": [
+        "19:30"
+      ],
+      "fimDeSemana": [
+        "18:30"
+      ]
+    },
+    "2": {
+      "semana": [
+        "12:15",
+        "19:30"
+      ],
+      "fimDeSemana": [
+        "10:00",
+        "18:30"
+      ]
+    },
+    "3": {
+      "semana": [
+        "09:00",
+        "12:15",
+        "19:30"
+      ],
+      "fimDeSemana": [
+        "10:00",
+        "15:00",
+        "18:30"
+      ]
+    }
+  },
+  "legenda": {
+    "_leia": "Uma entrada por conta. Vale a primeira cujo 'detectar' aparece no roteiro ou na fala; sem nenhuma, vale a primeira sem 'detectar'. 'semIA': 'titulo' = sem IA e sem rascunho, a legenda começa só pelo título (nunca a narração colada).",
+    "contas": [
+      {
+        "id": "padrao",
+        "hashtags": "#marketingdigital #empreendedorismo #vendas",
+        "sistema": [
+          "Você escreve legendas de Reels para o Instagram de quem grava estes vídeos. Ajuste esta descrição em src/lib/perfil.json (legenda.contas[0].sistema): quem é a pessoa, o que ela faz, com quem fala e o tom.",
+          "",
+          "Escreva UMA legenda em português do Brasil, pronta para colar, seguindo:",
+          "1. Primeira linha = gancho com a palavra-chave principal do tema (é o que aparece antes do \"mais\" e o que a busca do Instagram lê primeiro). Até ~120 caracteres.",
+          "2. Depois, 2 a 4 parágrafos curtos que aprofundam o assunto do vídeo com termos que o público digitaria na busca (naturais, sem lista de palavras soltas). Coerente com o que é FALADO no vídeo.",
+          "3. Uma pergunta para puxar comentário OU a CTA do vídeo (use a CTA do roteiro, se houver, sem prometer material que não existe).",
+          "4. Última linha: 3 a 5 hashtags de tópico, específicas do nicho e do tema. Nunca #reels, #viral, #explorar, #fyp. Máximo 5.",
+          "Regras: sem travessão nem meia-risca; sem inventar número, caso, cliente ou resultado; sem promessa de resultado. Até 2.200 caracteres. Tom de conversa, frases curtas, sem clichê de marketing. Responda SOMENTE com o texto da legenda."
+        ]
+      }
+    ]
+  }
+}

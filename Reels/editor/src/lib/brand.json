@@ -1,0 +1,26 @@
+{
+  "handle": "@seu.perfil",
+  "avatar": "brand/avatar.svg",
+  "logo": "brand/logo.svg",
+  "cores": {
+    "destaque": "#8B5CF6",
+    "destaqueClaro": "#A78BFA",
+    "tinta": "#141414",
+    "papel": "#F5F4F2"
+  },
+  "textos": {
+    "cliente": "cliente",
+    "clienteTitulo": "Cliente",
+    "profissional": "profissional",
+    "iconeProfissional": "pro",
+    "negocio": "negócio",
+    "seuNegocio": "seu negócio",
+    "outroNegocio": "outro negócio",
+    "painel": "Painel do negócio",
+    "momentoDaVenda": "na conversa",
+    "palavraCta": "QUERO",
+    "produtoUnico": "1 serviço",
+    "produto": "OFERTA",
+    "avaliacao": "avaliação do cliente"
+  }
+}

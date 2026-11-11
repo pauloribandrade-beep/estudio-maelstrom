@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+editor/node_modules/
+editor/out/
+editor/public/videos/

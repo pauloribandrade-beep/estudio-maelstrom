@@ -1,0 +1,12 @@
+Sons do editor:
+- Kenney (kenney.nl): Interface Sounds, UI Audio, Impact Sounds. Licença CC0 1.0.
+- Social SFX Pack - Collection 1 (baixado pelo usuário em 2026-09-27): licença NÃO incluída no pacote; confirmar a origem antes de uso comercial. Alguns arquivos citam autores do Freesound (ex.: akonze, Headphaze, Bigmonmulgrew).
+- write_*.wav: gerados por scripts/build_sfx.py (sem direitos de terceiros).
+- step_*.wav: Kenney Impact Sounds (footstep_wood_000..004), CC0 1.0, pico ajustado para -9 dBFS.
+- fly_0.wav: Mixkit "Fly buzzing and bouncing" (id 326), Mixkit Free License, trecho de 3 s com fades.
+- yuck_0.wav: Pixabay "disgust" (freesound_community, id 82610), Pixabay Content License.
+- page_0.wav: Mixkit "Page turn single" (id 1104), Mixkit Free License.
+- flap_0..2.wav: Pixabay "split flap display" (freesound_community, id 58766), Pixabay Content License, 3 clacks isolados.
+- typew_0.wav: Mixkit "Old typewriter typing" (id 1372), trecho de 4 s. news_0.wav: Mixkit "Newspaper falling to the floor" (id 386). confirm_0.wav: Mixkit "Confirmation tone" (id 2867). Mixkit Free License.
+- ui_*.wav: Mixkit (mixkit.co, Mixkit Sound Effects Free License) 3120, 2618, 3123.
+- flip_*.wav: Sonniss GDC 2026 Game Audio Bundle (royalty-free), 344 Audio - Antique Books.

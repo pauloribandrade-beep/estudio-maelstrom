@@ -1,0 +1,38 @@
+# Palavras que o whisper deve priorizar (uma por linha; # = comentário).
+# Acrescente aqui todo termo que ele errar em algum vídeo.
+ZALE
+Clínica Previsível
+Paulo
+Fulana
+doutora
+médica
+paciente
+protocolo
+protocolos
+procedimento
+avulso
+consulta
+avaliação
+harmonização
+toxina
+botox
+preenchimento
+bioestimulador
+fios
+injetáveis
+secretária
+recepção
+SDR
+CRC
+direct
+stories
+Reels
+Instagram
+Claude Code
+faturamento
+ancoragem
+follow-up
+retorno
+reativação
+indicação
+CFM

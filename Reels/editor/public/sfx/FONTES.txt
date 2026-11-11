@@ -1,0 +1,22 @@
+
+# Frank/Blonde (10/11/2026), Freesound CC0
+fb_vinil.wav = 614342 mitchanary "Vinyl Dust 50"
+fb_onibus.wav = 264440 ivolipa "bus_interior_highway_2"
+fb_chuva_vidro.wav = 243781 bastipictures "rain against window 2"
+fb_vapor.wav = 365071 sniperous "Steam"
+fb_embaca.wav = 234782 wubitog "Steam/hiss"
+fb_dedo_vidro.wav = 320912 mickdow "Squeak Finger on Glass"
+fb_manga_vidro.wav = 204349 Moonlight Dancer "Glass wipe"
+fb_pincel_a/b.wav = 482891 ssalo "painting_1"
+fb_tesoura.wav = 234679 "Scissor cutting paper"
+fb_marcador.wav = 321137 elliott.klein "Sharpie marker drawing circle 01"
+fb_rabisco.wav = 82610 indigosierra "scribble"
+fb_agulha.wav = 556722 Breviceps "Record Player Needle is dropped & Vinyl crackling"
+fb_rebobina.wav = 402451 plasterbrain "Fast Forward"
+fb_gravador.wav = 331385 soundjoao "Tape Deck Startup"
+fb_papeis.wav = 181774 keweldog "rustling paper"
+fb_fio.wav = 355041 dsebeste "Plucking an Elastic Band"
+fb_lapis.wav = 46624 123jorre456 "drawing fast lines with pencil on paper"
+grilos.wav (c9) = 746366 RyanKingArt 'Southern Summer Evening Ambience with Crickets 5' CC0
+fb_chuveiro_fecha.wav  · Freesound 67174 "turn off shower.wav" (jrssandoval) · CC0 · trecho 11–20,4 s
+fb_azulejo.wav         · Freesound 148355 "clinking_tiles_01.wav" (mannhawks) · CC0 · trecho 6,5–7,4 s

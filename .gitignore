@@ -1,0 +1,16 @@
+# gerado pelo publicar_maelstrom.py
+node_modules/
+Reels/editor/out/
+Reels/editor/public/videos/
+Reels/editor/sfx-lib/
+Reels/calendario.json
+Reels/historico.md
+*.mp4
+*.mov
+*.MOV
+*.zip
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store

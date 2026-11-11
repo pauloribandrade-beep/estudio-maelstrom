@@ -1,0 +1,7 @@
+# Transcrição e edição (skills editor-reels-zale, deadlock-videos e ferramentas do Estúdio)
+faster-whisper
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
+truststore
+numpy
+pillow

@@ -1,0 +1,33 @@
+Silhuetas (Wikimedia Commons, CC0): Silhouette_of_man_on_chair.svg, Man_standing_silhouette.svg, Silhouette_of_a_standing_man.svg, Desperate-2676556.png
+Convertidas em mapas de calor (sentado, empe, empe2, encolhido).
+alyx_rosto.jpg = retrato da Alyx (Half-Life 2, Valve), enviado pelo Paulo em 03/10, recortado no rosto.
+gordon_retrato.png = arte promocional do Gordon (Half-Life 2, Valve) — combineoverwiki.net/images/b/b0/Freeman_bust.jpg, recortada (selo do mapa).
+varga_retrato.png = quadro da imagem do Varga gerada pelo Paulo (E:/HL3/raw/3c/gen/varga_A.mp4, 6 s).
+hunter_peca.png / strider_peca.png = contornos recortados de quadros do Half-Life 2: Episode Two (Valve), pintados em tons chapados.
+eli_retrato.png = retrato do Eli (Half-Life 2, Valve) — combineoverwiki.net/images/0/0d/Eli_Portrait.jpg, recortado (selo do mapa).
+kleiner_retrato.png = retrato do Kleiner (Half-Life 2, Valve) — combineoverwiki.net/images/1/13/Kleiner_Portrait.jpg, recortado (selo do mapa).
+bm_logo.svg — Wikimedia Commons 'Half-Life Black Mesa logo.svg' (domínio público)
+hev.png = mapa de calor do traje HEV (silhueta de gordon_peca.png): traje frio, cabeça e mãos mornas
+dog.png = mapa de calor do Dog a partir do render 'DOG model.jpg' (Combine OverWiki): metal frio, juntas mornas, olho quente
+farda.png = mapa de calor de 'Soldier_svg' (Wikimedia, CC0, já em E:/HL3/raw/silh): o Varga fardado, rádio nas costas
+rebelde.png = mapa de calor do rebelde de gorro e colete λ da ficha 'Rebel skins' (Combine OverWiki): o Varga
+varga.png = mapa de calor do render do Varga (gerado pelo Paulo no ChatGPT, 04/10): rosto e dedos quentes, roupa morna, colete/gorro/botas mais frios
+varga.png (04/10, v2) = silhueta do Varga de frente feita pelo Paulo (ChatGPT): rosto e pescoço quentes, gorro frio, tronco morno, mãos mornas, botas frias
+silh_contraluz.png = recorte transparente de empe2.png (silhueta CC0 'Silhouette_of_a_standing_man.svg'), usada como pessoa em contraluz
+vort_silh.png = silhueta transparente do Vortigaunt (projeção 3/4 do modelo vort.glb já no projeto), para personagens em contraluz
+caderno_houndeye/bullsquid/barnacle_{linha,cor}.png = ilustração de caderno (grafite + aquarela) gerada a partir das referências enviadas pelo Paulo em 06/10 (renders de Half-Life, Valve)
+mossman_badge.jpg, barney_badge.jpg: retratos oficiais (Combine OverWiki, Judith_Portrait.jpg e Barney_Calhoun_EP1_Portrait.jpg), baixados 07/10 a pedido do Paulo
+gman_silh.png = silhueta do modelo oficial do G-Man (public/models/gman.glb, Half-Life: Alyx, Valve) na pose da animação 'gman_approach_pre_idle' (t=1,0 s), skinning na CPU com tools/skin_silh.py (07/10)
+magnusson_badge.jpg = retrato do Dr. Magnusson (Half-Life 2: Episode Two, Valve), enviado pelo Paulo em 07/10
+combine_badge, rebelde_badge, cidadao_badge, cidada_badge: Combine OverWiki (Overwatch_Soldier_mp7.jpg, Rebels_tunnel_dark.jpg, Citizens_infobox.jpg), 07/10, a pedido do Paulo
+rebelde2..5_badge (Rebels_tunnel_dark.jpg, Nlo_rebels_aim.jpg): Combine OverWiki, 07/10
+cidadao/cidada/cidadao3_badge refeitos de Citizen_Apartment.jpg (cena do jogo; os renders do Citizens_infobox foram vetados 07/10); rebelde6..8_badge de Rebels_tunnel.jpg
+07/10: removidos cidadao/cidadao3/rebelde4/5/6 (rosto de perfil — ele pediu só rosto de frente)
+magnusson_badge.jpg (Arne_Magnusson_bust.jpg), antlion_silh/headcrab_silh (Antlion_standard_skin_1.jpg, Headcrab_Standard.jpg): Combine OverWiki, 07/10
+cave_retrato.png = retrato do Cave Johnson, anos 70 (Portal 2, Valve) — theportalwiki.net Cave_Johnson_Painting_3.png, baixado 08/10 a pedido do Paulo
+guardia_ref.png / guardia_holo.png — Antlion Guard (render oficial do HL2/Ep2), https://combineoverwiki.net/images/a/a2/Antlion_guard.jpg — baixado 09/10/2026 com o OK do Paulo; usado só como forma do holograma
+guardia_ref.png / guardia_holo.png (09/10) — referência enviada pelo Paulo no chat (Antlion Guardian de frente, fundo branco); holograma gerado por scratchpad guardia_holo3.py
+antlion_holo.png (09/10) — referência do Paulo (images/128.jpg, antlion de frente); guardia_holo.png refeito do render oficial Antlion_guardian.jpg (Ep2), Combine OverWiki
+dog_holo.png (09/10) — holograma do Dog a partir de E:/HL3/dog/DOG_model.jpg (render do Combine OverWiki)
+
+sev_fan_poster.jpg - "Severance Poster", Santiago Bruni (ArtStation, arte de fã) https://www.artstation.com/artwork/Jr6Dzn - encerramento 15 (29/10)
